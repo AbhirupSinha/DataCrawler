@@ -1,0 +1,10 @@
+{
+   "ExtnName": {
+      "Description": "Extension name",
+      "message": "Bing Homepage"
+   },
+   "HomePage": {
+      "Description": "Homepage",
+      "message": ""
+   }
+}

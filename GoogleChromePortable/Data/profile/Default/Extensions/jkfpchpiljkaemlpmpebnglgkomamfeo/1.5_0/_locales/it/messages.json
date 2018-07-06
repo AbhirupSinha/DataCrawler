@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Informazioni su HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Fare clic sul pulsante in basso"
+   },
+   "connection_error_header": {
+      "message": "Errore di connessione"
+   },
+   "description": {
+      "message": "Viene lanciato HP Network Check, che aiuta a risolvere i problemi di connessione"
+   },
+   "diagnose": {
+      "message": "Controllo rete HP"
+   },
+   "error_desc": {
+      "message": "La visualizzazione della pagine Web è stata impedita da un problema relativo a Google Chrome.  Fare clic sul pulsante a sinistra per avviare Controllo di rete HP, in modo che venga eseguita automaticamente una diagnosi e che venga risolto il problema."
+   },
+   "fix": {
+      "message": "CORREZIONE"
+   },
+   "hpnc_desc_1": {
+      "message": "Può rilevare, diagnosticare e riparare automaticamente i problemi di rete più comuni"
+   },
+   "hpnc_desc_2": {
+      "message": "Integrato con il Framework di diagnostica di rete di Windows, per un'esecuzione simultanea di entrambi"
+   },
+   "hpnc_desc_3": {
+      "message": "Fornisce istruzioni chiare per risolvere i problemi che non possono essere risolti automaticamente"
+   },
+   "hpnc_desc_4": {
+      "message": "Mostra le informazioni chiave di sistema e rete per una risoluzione dei problemi più semplice"
+   },
+   "message_title": {
+      "message": "Google Chrome non può visualizzare la pagina Web"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Errore di connessione"
+   }
+}

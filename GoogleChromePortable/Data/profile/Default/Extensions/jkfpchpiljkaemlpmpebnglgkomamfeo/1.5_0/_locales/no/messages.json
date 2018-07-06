@@ -1,0 +1,50 @@
+{
+      "name": {
+    "message": "HP Network Check Launcher"
+  },
+  "description": {
+    "message": "Starter HP Nettverkkontroll som hjelper deg med å løse problemer"
+  },
+  "title": {
+    "message": "HP Tilkoblingsfeil"
+  },
+  "connection_error_header": {
+    "message": "Tilkoblingsfeil"
+  },
+  "message_title": {
+    "message": "Google Chrome kan ikke vise nettsiden"
+  },
+  "fix": {  
+	"message": "FIKSE"
+  },
+  "click_button": {
+    "message": "Klikk på knappen nedenfor"
+  },
+  "below":
+  {
+	"message": ""
+  },
+  "diagnose":
+  {
+	"message": "P Nettverkskontroll"
+  },
+  "error_desc":{
+	"message": "En feil gjorde at Google Chrome ikke kunne vise nettsiden.  Klikk på knappen til venstre for å starte HP Nettverkssjekk for å diagnostisere og fikse problemet automatisk."
+  },
+  "about":{
+	"message": "Om HP Nettverkkontroll"
+  },
+  "hpnc_desc_1": {
+    "message": "Kan automatisk oppdage, diagnostisere og reparere mange vanlige nettverksproblemer"
+  },
+  "hpnc_desc_2": {
+    "message": "Integrert med Windows Rammeverk for nettverksdiagnose, så det kjører begge samtidig"
+  }, 
+  "hpnc_desc_3": {
+    "message": "Gir klare instruksjoner for å løse problemer som ikke kan løses automatisk"
+  },  
+  "hpnc_desc_4": {
+    "message": "Viser viktig system- og nettverksinformasjon for enklere feilsøking"
+  }
+  }
+

@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Par HP tīkla pārbaudi"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Noklikšķiniet uz šīs pogas"
+   },
+   "connection_error_header": {
+      "message": "Savienojuma kļūda"
+   },
+   "description": {
+      "message": "Palaiž HP tīkla pārbaudi, kas palīdz jums atrisināt savienojamības problēmas"
+   },
+   "diagnose": {
+      "message": "HP tīkla pārbaude"
+   },
+   "error_desc": {
+      "message": "Problēma neļauj Google Chrome parādīt tīmekļa lapu.  Noklikšķiniet uz pogas pa kreisi, lai palaistu HP tīkla pārbaudi problēmas automātiskai diagnosticēšanai un izlabošanai."
+   },
+   "fix": {
+      "message": "LABOT"
+   },
+   "hpnc_desc_1": {
+      "message": "Var automātiski noteikt, diagnosticēt un labot daudzas parastās tīkla problēmas"
+   },
+   "hpnc_desc_2": {
+      "message": "Integrēta ar Windows Network Diagnostics Framework, tādējādi tās darbojas vienlaicīgi"
+   },
+   "hpnc_desc_3": {
+      "message": "Nodrošina skaidras instrukcijas, lai atrisinātu problēmas, kuras nevar atrisināt automātiski"
+   },
+   "hpnc_desc_4": {
+      "message": "Parāda galveno sistēmas un tīkla informāciju vieglākai problēmu novēršanai"
+   },
+   "message_title": {
+      "message": "Google Chrome nevar parādīt tīmekļa lapu"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Savienojuma kļūda"
+   }
+}

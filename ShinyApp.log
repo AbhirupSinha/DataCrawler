@@ -1,0 +1,22 @@
+library paths:
+... C:/Users/HP/Desktop/DataCrawler/R-Portable/App/R-Portable/library
+Loading required package: shiny
+Loading required package: methods
+
+Listening on http://127.0.0.1:5501
+Browser path: C:\Users\HP\Desktop\DataCrawler\GoogleChromePortable\App\Chrome-bin\chrome.exe
+
+Attaching package: 'zip'
+
+The following object is masked from 'package:utils':
+
+    zip
+
+Loading required package: bitops
+
+Attaching package: 'curl'
+
+The following object is masked from 'package:httr':
+
+    handle_reset
+

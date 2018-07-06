@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "O HP proveri mreže"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Kliknite na dugme ispod"
+   },
+   "connection_error_header": {
+      "message": "Greška veze"
+   },
+   "description": {
+      "message": "Pokreće HP proveru mreže koja vam pomaže da rešite probleme sa vezom"
+   },
+   "diagnose": {
+      "message": "HP provera mreže"
+   },
+   "error_desc": {
+      "message": "Problem je sprečio da pregledač Google Chrome prikaže web stranicu.  Kliknite na dugme na levoj strani da biste pokrenuli program HP Network Check (HP provera mreže) koji automatski otkriva i popravlja probleme."
+   },
+   "fix": {
+      "message": "POPRAVKA"
+   },
+   "hpnc_desc_1": {
+      "message": "Može da automatski otkrije, dijagnosticira i popravi mnoge uobičajene probleme na mreži"
+   },
+   "hpnc_desc_2": {
+      "message": "Integrisana sa Windows radnim okvirom za dijagnostiku mreže, tako da rade istovremeno"
+   },
+   "hpnc_desc_3": {
+      "message": "Daje jasna uputstva za rešavanje problema koji ne mogu da se reše automatski"
+   },
+   "hpnc_desc_4": {
+      "message": "Pokazuje ključne informacije o sistemu i mreži radi lakšeg rešavanja problema"
+   },
+   "message_title": {
+      "message": "Google Chrome ne može da prikaže Web stranicu"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Greška veze"
+   }
+}

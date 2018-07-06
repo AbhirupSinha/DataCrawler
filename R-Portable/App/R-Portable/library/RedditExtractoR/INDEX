@@ -1,0 +1,5 @@
+RedditExtractoR         Reddit Data Extraction Toolkit
+construct_graph         Create a graph file from a single Reddit thread
+get_reddit              Get all data attributes from search query
+reddit_content          Extract data attributes
+reddit_urls             Returns relevant reddit URLs

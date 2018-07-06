@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Acerca de Comprobación de red de HP"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Haga clic en el siguiente botón"
+   },
+   "connection_error_header": {
+      "message": "Error de conexión"
+   },
+   "description": {
+      "message": "Ejecuta Comprobación de red de HP, que le ayuda a resolver problemas de conexión"
+   },
+   "diagnose": {
+      "message": "Comprobación de red HP"
+   },
+   "error_desc": {
+      "message": "Se ha producido un problema que impide que Google Chrome muestre la página web.  Haga clic en el botón de la izquierda para iniciar la comprobación de red de HP para diagnosticar automáticamente el problema y solucionarlo."
+   },
+   "fix": {
+      "message": "SOLUCIÓN"
+   },
+   "hpnc_desc_1": {
+      "message": "Puede detectar, diagnosticar y reparar automáticamente muchos problemas de red comunes"
+   },
+   "hpnc_desc_2": {
+      "message": "Está integrado en el marco de diagnóstico de red de Windows y por lo tanto ambos se ejecutan simultáneamente"
+   },
+   "hpnc_desc_3": {
+      "message": "Proporciona instrucciones claras para resolver problemas que no se pueden resolver automáticamente"
+   },
+   "hpnc_desc_4": {
+      "message": "Muestra la información importante del sistema y de la red para facilitar la resolución de problemas"
+   },
+   "message_title": {
+      "message": "Google Chrome no puede mostrar la página web"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Error de conexión"
+   }
+}

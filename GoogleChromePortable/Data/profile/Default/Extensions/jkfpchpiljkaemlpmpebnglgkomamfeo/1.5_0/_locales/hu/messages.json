@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "HP hálózati ellenőrzés"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Kattintson az alábbi gombra"
+   },
+   "connection_error_header": {
+      "message": "Csatlakozási hiba"
+   },
+   "description": {
+      "message": "Elindítja a HP hálózati ellenőrzést, mely segít Önnek megoldani a csatlakozási problémákat"
+   },
+   "diagnose": {
+      "message": "HP hálózat-ellenőrzés"
+   },
+   "error_desc": {
+      "message": "Egy probléma miatt az Google Chrome képtelen megjeleníteni a honlapot.  A HP hálózatellenőrzés elindításához, valamint a probléma automatikus diagnosztizálásához és kijavításához kattintson a bal oldalon található gombra."
+   },
+   "fix": {
+      "message": "JAVÍTÁS"
+   },
+   "hpnc_desc_1": {
+      "message": "Automatikusan észlelni, diagnosztizálni és kijavítani tud sok gyakori hálózati problémát"
+   },
+   "hpnc_desc_2": {
+      "message": "A Windows Network Diagnostics Framework-kel integrált, így mindkettő párhuzamosan fut"
+   },
+   "hpnc_desc_3": {
+      "message": "Egyértelmű utasításokkal szolgál az automatikusan nem megoldható problémák megoldására"
+   },
+   "hpnc_desc_4": {
+      "message": "Fontos rendszer- és hálózati információkat mutat a kö;nnyebb hibaelhárításhoz"
+   },
+   "message_title": {
+      "message": "Az Google Chrome nem tudja megjeleníteni a weboldalt"
+   },
+   "name": {
+      "message": "HP hálózati ellenőrzés"
+   },
+   "title": {
+      "message": "P Csatlakozási hiba"
+   }
+}

@@ -1,0 +1,90 @@
+Changes in version 0.4-0 (2014-04-27)
+
+New Features
+* parseAttachment() can be used to extract the attachments from posts.
+  Dependent on the type of attachment, different fields are being extracted.
+  Owing to its modular design, it is possible to extend the parsing of future attachment types.
+* harvestPage() and harvestProfile() now use pluggable parsing functions. All
+  parsing code has been put into external functions like parsePost() and parseProfile().
+  The harvest*() functions can be called with these or user-contributed parsing functions.
+  Thanks go to Bud Gibson for the idea.
+
+Improvements
+* parsePost() is not returning the number of attachments (nA) anymore, as it was always 0 or 1.
+  Rather, it now returns the type of attachment a post has (or NA, if there is no attachment).
+
+Changes in version 0.3-6 (2014-04-22)
+
+Bugfixes
+* harvestPage had incorrectly ignored the nextPage token if called recursively.
+  Thanks to Bud Gibson for pointing this out.
+
+Changes in version 0.3-5 (2014-04-01)
+
+Bugfixes
+* Additional person fields removed from DESCRIPTION.
+
+Changes in version 0.3-4 (2014-03-24)
+
+Bugfixes
+* DESCRIPTION now has a Maintainer field, as binary build servers require this.
+
+Changes in version 0.3-3 (2014-03-14)
+
+Improvements
+* Harvesting profiles now returns also a profile's website (if it has one).
+* Searching for profiles now returns an additional column differentiating
+  between profiles and pages.
+
+Bugfixes
+* Some columns of the results when harvesting profiles were always NA because
+  the corresponding field had not been selected. All fields are now selected.
+* Also when harvesting profiles, type was always NA; this is now fixed.
+
+Changes in version 0.3-2 (2014-03-05)
+
+Improvements
+* Dropping the knitr dependency for now, as a vignette is unlikely to be
+  included due to authentication issues. 
+
+Bugfixes
+* The Google+ API key is now stored in a private environment instead of
+  .Globalenv. This is required to pass CRAN checks and safeguards against
+  overwriting userspace variables.
+
+
+Changes in version 0.3-1 (2014-03-04)
+
+Bugfixes
+* The age of a post (as returned by 'parsePost') is now always in days.
+  Previously, posts that were younger than a day had their age returned in
+  hours. This led to inconsistencies in the interpretation of age. 
+
+Changes in version 0.3-0 (2014-03-03)
+
+Improvements
+* harvestProfile is now vectorized, accepting a vector of user IDs.
+* All functions that depend on it now fail gracefully if no API key has been 
+  set.
+* Functions now use a basic heuristic in validating their respective arguments.
+
+Changes in version 0.2-0 (2014-02-28)
+
+New Features
+* Gained two functions to harvest user profiles and user IDs of users acting on
+  a post.
+* Gained a function to search profiles for query strings.
+* Gained a function to search for a query in posts.
+
+
+Documentation
+* More elaborate package documentation.
+* Every function now contains at least on example.
+
+Improvements
+* Retrieval of paginated results oriented on target values.
+* All user supplied strings are now URL encoded (escaped).
+
+Changes in version 0.1-0 (2014-02-26)
+
+* Initial rudimentary package version.

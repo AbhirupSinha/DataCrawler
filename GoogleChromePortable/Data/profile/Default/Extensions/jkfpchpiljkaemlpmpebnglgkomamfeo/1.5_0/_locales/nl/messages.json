@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Over HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Klik op de onderstaande knop"
+   },
+   "connection_error_header": {
+      "message": "Verbindingsfout"
+   },
+   "description": {
+      "message": "Start HP Network Check voor het oplossen van problemen met connectiviteit"
+   },
+   "diagnose": {
+      "message": "HP Network"
+   },
+   "error_desc": {
+      "message": "Een probleem voorkomt dat Google Chrome de webpagina weergeeft.  Klik op de knop links om HP Netwerktest te starten voor automatische diagnose en reparatie van het probleem."
+   },
+   "fix": {
+      "message": "OPLOSSEN"
+   },
+   "hpnc_desc_1": {
+      "message": "Kan veel algemene netwerkproblemen detecteren, hiervan een diagnose stellen en ze vervolgens oplossen"
+   },
+   "hpnc_desc_2": {
+      "message": "Geïntegreerd met Windows Network Diagnostics Framework, waardoor beide simultaan uitgevoerd worden"
+   },
+   "hpnc_desc_3": {
+      "message": "Geeft duidelijke aanwijzingen voor het oplossen van problemen die niet automatisch opgelost kunnen worden"
+   },
+   "hpnc_desc_4": {
+      "message": "Toont belangrijke systeem- en netwerkinformatie voor het eenvoudiger oplossen van problemen"
+   },
+   "message_title": {
+      "message": "Google Chrome kan de webpagina niet weergeven"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Verbindingsfout"
+   }
+}

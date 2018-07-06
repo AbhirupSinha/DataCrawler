@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Сведения о проверке сети HP"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Kliknite na tlačidlo nižšie"
+   },
+   "connection_error_header": {
+      "message": "Chyba pripojenia"
+   },
+   "description": {
+      "message": "Spustí HP Kontrola siete, ktorá vám pomôže vyriešiť vaše problémy s pripojením"
+   },
+   "diagnose": {
+      "message": "HP Kontrola siete"
+   },
+   "error_desc": {
+      "message": "Pri zobrazení tejto webovej stránky v prehliadači Google Chrome sa vyskytol problém.  Kliknite na tlačidlo vľavo a spustite funkciu HP Network Check (HP kontrola siete) na automatickú diagnostiku a opravu problému."
+   },
+   "fix": {
+      "message": "Riešenie"
+   },
+   "hpnc_desc_1": {
+      "message": "Dokáže automaticky zistiť, diagnostikovať a opraviť mnoho bežných problémov siete"
+   },
+   "hpnc_desc_2": {
+      "message": "Zabudovaný do rámca sieťových diagnostických nástrojov systému Windows a preto obidva bežia naraz."
+   },
+   "hpnc_desc_3": {
+      "message": "Poskytuje jasné pokyny, ako riešiť problémy, ktoré nie je možné vyriešiť automaticky"
+   },
+   "hpnc_desc_4": {
+      "message": "Zobrazuje kľúčový systém a sieťové informácie pre jednoduchšie riešenie problémov"
+   },
+   "message_title": {
+      "message": "Google Chrome nemôže zobraziť webovú stránku"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Chyba pripojenia"
+   }
+}

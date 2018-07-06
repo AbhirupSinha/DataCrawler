@@ -1,0 +1,199 @@
+CHANGES IN VERSION 1.1.8 (2014-12-31)
+-----------------------
+
+USER VISIBLE CHANGES
+     o The use of ROAuth and RCurl has been removed in favor of the httr
+     package. This changes how OAuth authentication is handled, with the
+     new system going through setup_twitter_oauth() and load_twitter_oauth().
+
+     o Changed from using int64 to bit64 for large integer support
+ 
+     o setup_twitter_oauth() will report if an authentication attempt fails
+
+BUG FIXES
+    o getCurRateLimitInfo now requires at least one supported resource family
+
+NEW FEATURES
+    o Added lookup_statuses, which will retrieve a vector of tweet IDs
+
+    o Added resultType to searchTwitter, provided by Ajay Gopal
+
+    o Added maxID to searchTwitter, provided by Paul Nulty
+
+    o updateStatus now has an argument 'mediaPath' which can be used to 
+    upload images. Provided by Christopher Hackett.
+
+    o Added a DB persistence layer, with store_tweets_db/load_tweets_db and 
+    store_users_db/load_users_db. 
+   
+    o Added a convenience method search_twitter_and_store() which can be used
+    to periodically update a database table with search results. 
+
+    o Added a function strip_retweets which will attempt to remove retweets
+    from a list of Status objects.
+
+    o Added a function 'retweeters' and a convenience method 'getRetweeters'
+    to the Status class. This function takes an ID of a tweet and a count
+    (default is 20) and will return the IDs of users who have retweeted this
+    tweet. The getRetweeters convenience method only takes the count.
+
+    o Added argument forceUtf8Conversion (accessible via ... in all exposed
+    functionality) which if set to FALSE (default is TRUE) will disable the
+    forced conversion to UTF-8. Note that doing this can cause bad behavior
+    if responses pass on characters outside of UTF-8.
+
+CHANGES IN VERSION 1.1.7 (2013-7-8)
+-----------------------
+
+NEW FEATURES
+    o Added a 'urls' slot to the Status class. This is a data.frame containing
+    information about any t.co shortened URLs, providing the expanded URL,
+    a display string and the character positions the URL was extracted from.
+    This only applies to t.co shortened URLs.
+
+    o Added a function decode_short_urls as a utility to help users process
+    shortened URLs which were not t.co shortened.
+
+    o Included patch to force all characters to UTF-8 before passing along
+    to rjson
+
+    o Added function "favorites" which takes a user and returns a list of
+    their n most recent favorited tweets. Also added convenience method
+    to the user class getFavorites()    
+
+    o Added favoriteCount field to the status class, i.e. x$getFavoriteCount()
+
+    o Added isRetweet field to the status class, i.e. x$getIsRetweet()
+
+    o Added retweets function to get retweets of a status, and a 
+    $getRetweets() convenience method to the status class.
+
+BUG FIXES
+
+    o Fixed a bug where userTimeline would fail if given a single user
+    object (as opposed to simple screen names, IDs, etc)
+
+    o Fixed a bug in lookupUsers - if the user arg was NULL an error would
+    be thrown. Now returns empty list
+
+    o Fixed a bug in the assignment of latitude/longitude for tweets, these
+    will now be properly populated
+    
+    o users$toDataFrame will now honor the stringsAsFactors argument
+
+    o getFavoritesCount() will now work properly on users.
+
+
+CHANGES IN VERSION 1.1.6 (2013-04-05)
+------------------------
+
+BUG FIXES
+
+    o Fixed a bug in searchTwitter which would fill the tail end of a query
+    with duplicated tweets if the user requested more than available
+    
+    o Changed showStatus to use character based input due to large IDs
+
+CHANGES IN VERSION 1.1.5 (2013-03-26)
+------------------------
+
+NEW FEATURES
+
+    - Changed 'blockOnRateLimit' (boolean) to 'retryOnRateLimit' (integer). If
+     this value is supplied (to any of the twitteR API wrappers) the system
+     will retry up to N times if Twitter's rate limit in effect. If the 
+     retry limit is reached (even if it was 0) twitteR will now try to return
+     any partial results that had been accumulated prior to the rate limit
+     (with a warning)
+   - Added function getTwitterOAuth(consumer_key, consumer_secret) which is a 
+     wrapper around the ROAuth creation/handshaking process which embeds the
+     Twitter URLs. Will also call registerTwitterOAuth for you and then return
+     the OAuth credential so you can save it for future use if you wish.
+ 
+USER VISIBLE CHANGES  
+   - ROAuth (>= 0.9.4) is now a Depends
+
+CHANGES IN VERSION 1.1.4 (2013-03-18)
+------------------------
+
+USER VISIBLE CHANGES
+
+   - Allow for by-hour filtering in since/util
+
+CHANGES IN VERSION 1.1.3 (2013-03-17)
+------------------------
+
+BUG FIXES
+
+   - Fixing bug from 1.1.2's bug fix, search now works properly w/ max_id
+
+CHANGES IN VERSION 1.1.2 (2013-03-16)
+------------------------
+
+BUG FIXES
+
+   - Bug fixes from abicky
+   - removed a browser call to the status class
+
+CHANGES IN VERSION 1.1.1 (2013-03-03)
+------------------------
+
+NEW FEATURES
+
+    - Added 'longitude' and 'latitude' fields to the status class, pulls
+    from the 'coordinates' field of a tweet (when available)
+
+CHANGES IN VERSION 1.1.0 (2013-03-01)
+------------------------
+
+USER VISIBLE CHANGES
+
+     - Purely a version number bump to reflect the new API status
+
+CHANGES IN VERSION 0.99.28 (2013-02-23)
+--------------------------
+
+NEW FEATURES
+    
+     - Added profileImageUrl to the User class, along w/ getProfileImageUrl() 
+     method
+
+CHANGES IN VERSION 0.99.27 (2013-01-21)
+--------------------------
+
+NEW FEATURES
+
+     - Added includeRts option to userTimeline
+
+CHANGES IN VERSION 0.99.26 (2013-01-02)
+--------------------------
+
+USER VISIBLE CHANGES
+  
+     - now depending on rjson >= 0.2.24
+ 
+NEW FEATURES
+
+     - supply argument blockOnRateLimit which does as the name suggests
+
+CHANGES IN VERSION 0.99.24 (2013-01-02)
+-------------------------------------
+
+USER VISIBLE CHANGES 
+
+      - Convert search to using the 1.1 API
+
+CHANGES IN VERSION 0.99.23 (2012-12-27)
+---------------------------------------
+
+CONVERSION TO THE 1.1 API
+     
+       - Multiple functions (e.g. publicTimeline) were removed due to the
+       corresponding functionality being removed from the API
+    
+       - The trend system has been completely rewritten
+    
+       - The rate limit system has been completely rewritten
+ 
+       - The friendships() function has been added
+

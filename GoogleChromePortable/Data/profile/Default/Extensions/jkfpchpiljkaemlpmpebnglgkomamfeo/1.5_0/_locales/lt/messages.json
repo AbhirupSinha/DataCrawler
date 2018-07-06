@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Apie programą „HP Tinklo patikra“"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Spustelėkite mygtuką žemiau"
+   },
+   "connection_error_header": {
+      "message": "Ryšio klaida"
+   },
+   "description": {
+      "message": "Paleidžia programą „HP Tinklo patikra“, kurios dėka galima išspręsti prisijungimo problemas"
+   },
+   "diagnose": {
+      "message": "HP tinklo patikra"
+   },
+   "error_desc": {
+      "message": "Dėl klaidos „Google Chrome“ nerodo tinklalapio.  Spustelėkite mygtuką kairėje, kad paleistumėte HP tinklo patikros funkciją ir automatiškai diagnozuotumėte bei išspręstumėte problemą."
+   },
+   "fix": {
+      "message": "TAISYTI"
+   },
+   "hpnc_desc_1": {
+      "message": "Gali automatiškai aptikti, nustatyti ir išspręsti daugelį tinklo problemų."
+   },
+   "hpnc_desc_2": {
+      "message": "Integruota „Windows“ tinklo diagnostikos sistema, todėl abi programos paleidžiamos kartu"
+   },
+   "hpnc_desc_3": {
+      "message": "Pateikia aiškius nurodymus, kurių dėka galite išspręsti problemas, kurių nepavyko išspręsti automatiškai"
+   },
+   "hpnc_desc_4": {
+      "message": "Parodo pagrindinę sistemos ir tinklo informaciją, kad trikčių šalinimas būtų spartesnis"
+   },
+   "message_title": {
+      "message": "„Google Chrome“ negali parodyti tinklapio"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Ryšio klaida"
+   }
+}

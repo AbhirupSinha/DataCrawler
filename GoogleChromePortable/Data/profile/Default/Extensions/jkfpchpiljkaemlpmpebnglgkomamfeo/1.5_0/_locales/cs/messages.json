@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "O nástroji Kontrola sítě HP"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Klikněte na tlačítko níže"
+   },
+   "connection_error_header": {
+      "message": "Chyba připojení"
+   },
+   "description": {
+      "message": "Spustí nástroj Kontrola sítě HP, který vám pomůže vyřešit problémy s připojením"
+   },
+   "diagnose": {
+      "message": "Kontrola sítě HP"
+   },
+   "error_desc": {
+      "message": "Aplikace Google Chrome nemůže z důvodu chyby zobrazit webovou stránku.  Kliknutím na tlačítko vlevo spustíte nástroj HP Network Check, který automaticky diagnostikuje a opraví problém."
+   },
+   "fix": {
+      "message": "OPRAVA"
+   },
+   "hpnc_desc_1": {
+      "message": "Dokáže automaticky detekovat, diagnostikovat a opravit mnoho běžných problémů se sítí"
+   },
+   "hpnc_desc_2": {
+      "message": "Integrovaný s prostředím NDF (Network Diagnostics Framework) systému Windows, takže spouští simultánně obě"
+   },
+   "hpnc_desc_3": {
+      "message": "Poskytuje jasné instrukce k vyřešení problémů, které nelze opravit automaticky"
+   },
+   "hpnc_desc_4": {
+      "message": "Ukazuje klíčové informace o systému a síti pro jednodušší řešení problémů"
+   },
+   "message_title": {
+      "message": "Aplikace Google Chrome nemůže zobrazit webovou stránku"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Chyba připojení"
+   }
+}

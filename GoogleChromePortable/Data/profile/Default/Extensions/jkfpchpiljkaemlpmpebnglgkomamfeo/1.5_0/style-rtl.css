@@ -1,0 +1,120 @@
+﻿html {
+	font-family:"HP Simplified", "Segoe UI", Arial;
+}
+
+body {
+    height: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+	font-family:"HP Simplified", "Segoe UI", Arial; /* html will use fontfamily from injected stylesheet if not add this line. ref https://code.google.com/p/chromium/issues/detail?id=469452 */
+
+}
+
+.header {
+	background-color: #F2F2F2;
+	margin: 0px;
+	padding: 0px;
+	white-space:nowrap;
+	DIR:RTL;
+}
+
+.header-logo {
+	width: 80px;
+	height: 80px;
+	padding:20px;
+	margin-left:50px;
+	vertical-align:middle;
+}
+
+.header-txt {
+	font-size: xx-large;
+	font-weight: bold;
+}
+
+.message-box {
+	border: 1px solid #7F7F7F;
+	position: relative;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	padding-top:100px;
+	margin: auto;
+	margin-top:100px;
+	width: 700px;
+	height: auto;
+	background: #FFFFFF;
+	padding: 22px 32px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+}
+
+.message-box:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+
+
+.message-logo {
+	width: 30px;
+	height: 30px;
+	padding:10px;
+	vertical-align:middle;
+}
+
+
+.message-title {
+	font-size: large;
+	font-weight: bold;
+}
+
+.message-lefttxt{
+	float:right;
+	margin-top:25px;
+    width: 150px;
+	text-align:center;
+}
+
+/*.message-divider{
+	border-left: thin solid gray;
+	float:left;
+	margin-top:25px; 
+	margin:10px 0px 10px 20px;
+}
+*/
+
+a.button { 
+	display: block; 
+	background-color:#D63901;
+	padding:5px;
+	-moz-border-radius: 0px 4px 0px 4px;
+	-webkit-border-radius: 0px 4px 0px 4px;
+	border-radius: 0px 4px 0px 4px; 
+	font-size:small;
+	font-weight:bolder;
+	color:#ffffff;
+	text-decoration: none;
+    width: 140px;
+}
+
+a.button:hover { background-color: #C1401A; }
+
+.message-righttxt{
+	float:right;
+	margin-top:25px;
+	width:70%;
+	margin-right:25px;
+	font-size:small;
+    border-right: thin solid gray;
+    padding-right: 20px;
+}
+
+.message-list{
+	margin-top:0;
+	padding-left:12px;
+}
+

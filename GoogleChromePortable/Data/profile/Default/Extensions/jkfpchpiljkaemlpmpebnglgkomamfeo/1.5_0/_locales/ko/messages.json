@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "HP Network Check 정보"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "아래 버튼을 클릭"
+   },
+   "connection_error_header": {
+      "message": "연결 오류"
+   },
+   "description": {
+      "message": "연결 문제를 해결하도록 도와주는 HP Network Check를 실행합니다"
+   },
+   "diagnose": {
+      "message": "HP 네트워크 검사"
+   },
+   "error_desc": {
+      "message": "문제가 발생하여 Google Chrome에서 웹 페이지를 표시할 수 없습니다.  왼쪽 버튼을 클릭하여 자동으로 문제를 진단하고 해결하는 HP Network Check를 시작합니다."
+   },
+   "fix": {
+      "message": "FIX"
+   },
+   "hpnc_desc_1": {
+      "message": "여러 일반적인 네트워크 문제를 자동으로 감지, 진단 및 복구할 수 있음"
+   },
+   "hpnc_desc_2": {
+      "message": "Windows Network Diagnostics Framework와 통합되어 동시에 실행됨"
+   },
+   "hpnc_desc_3": {
+      "message": "자동으로 수정할 수 없는 문제를 해결하기 위한 명확한 지침 제공"
+   },
+   "hpnc_desc_4": {
+      "message": "더욱 편리한 문제 해결을 위해 주요 시스템 및 네트워크 정보 표시"
+   },
+   "message_title": {
+      "message": "Google Chrome가 웹 페이지를 표시할 수 없음"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP 연결 오류"
+   }
+}

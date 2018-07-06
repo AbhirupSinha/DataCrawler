@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Om HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Klicka på knappen nedan"
+   },
+   "connection_error_header": {
+      "message": "Anslutningsfel"
+   },
+   "description": {
+      "message": "Öppnar HP Network Check som hjälper dig att lösa anslutningsproblem"
+   },
+   "diagnose": {
+      "message": "HP-nätverkskontroll"
+   },
+   "error_desc": {
+      "message": "En fråga hindrade Google Chrome från att visa webbsidan.  Klicka på knappen till vänster för att starta HP:s nätverkskontroll för att automatiskt diagnostisera och åtgärda problemet."
+   },
+   "fix": {
+      "message": "KORRIGERING"
+   },
+   "hpnc_desc_1": {
+      "message": "Kan automatiskt detektera, diagnostisera och reparera många vanliga nätverksproblem"
+   },
+   "hpnc_desc_2": {
+      "message": "Det är integrerat i Windows Network Diagnostic-ramverket så båda körs samtidigt"
+   },
+   "hpnc_desc_3": {
+      "message": "Ger tydliga instruktioner för att lösa fel som inte kan lösas automatiskt"
+   },
+   "hpnc_desc_4": {
+      "message": "Visar viktig system- och nätverksinformation för enklare problemlösning."
+   },
+   "message_title": {
+      "message": "Google Chrome kan inte visa webbsidan"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Anslutningsfel"
+   }
+}

@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "navigation_networkerror.js", "background.js", "errorPageStringsHP.js" ]
+   },
+   "browser_action": {
+      "default_icon": "HP_Small.png"
+   },
+   "content_scripts": [ {
+      "js": [ "errorPageStringsHP.js", "errorPageLoad.js" ],
+      "matches": [ "http://*/" ]
+   } ],
+   "default_locale": "en_US",
+   "description": "__MSG_description__",
+   "icons": {
+      "128": "HP_Big.png",
+      "16": "HP_Small.png",
+      "48": "HP_Big.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgXkhcK2G8k8z6fzkC+UYZ53d9QUPzrYBvWXcXfEsdj1AiszRZjUp30hG6fg7HR4VwLwRe2gQ1QxtKlyVBDx3c9DhGJ3ALxCvsJXHpvZVoEoxfl5s0Tg5vFHhTkIyR0zLkFT04eQC0REfs29Vg4xt0Z5ayKeY/8gH/ECNgvxjHKzmiUYOJGX9u40MKvbGTvlXVvDFWRItpj7XXzcl6O0QJ22Qt0+hGAy5WS5d4tgrNF0kERAZbDynV7fs5dzEK+kvGFJOIxV/J70ZhXUO28e1xRgT5muhYomtjImTrqlAyx2L3Msc9olxcRPb6Pg65AayNK3zyynzQ3rLPN2YdU7/bQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "webNavigation", "tabs", "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5",
+   "web_accessible_resources": [ "hperror.htm" ]
+}

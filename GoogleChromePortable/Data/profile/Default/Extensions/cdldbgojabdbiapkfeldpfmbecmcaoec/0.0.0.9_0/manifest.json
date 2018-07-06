@@ -1,0 +1,27 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "Logo_48.png"
+   },
+   "chrome_settings_overrides": {
+      "homepage": "http://www.bing.com/?pc=__PARAM____MSG_HomePage__",
+      "startup_pages": [ "http://www.bing.com/?pc=__PARAM____MSG_HomePage__" ]
+   },
+   "default_locale": "en",
+   "description": "Set Bing as your default homepage",
+   "icons": {
+      "128": "Logo_128.png",
+      "16": "Logo.png",
+      "48": "Logo_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi7dFpOQ+4IBDnrT2tz2jBdRxan1BVVq7arhqxc2jheFvojJe8mWZ/kAXKYT4pjuTjzI0BD+wVAPnBnWC+MCihO8POQ3wXXQAOkXxCzIPz7RwJcQC8zJf3ku80rQydS8hQVEjPcAojn9/wdxkV8XgNa8Tqjam66Es5HwEGIXcmlJ7vEGma5pFD7gZ+AMIp3hxzN91Ty3K21vqxnfHI3P5BxfiRdMQG+Ber0EusVotm0xgZCTjBtjEPfDr3+GwD+sU0uCjSdMcOrzW6OehTDfl2FCOkDfQ8F4LEj/Hdb5/PdPPrDEcThnPwCCLVmlNIASrIc2e+0E0ADqhWHeFc86n7QIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_ExtnName__",
+   "permissions": [ "http://g.ceipmsn.com/*", "http://*.bing.com/*", "cookies", "management" ],
+   "short_name": "__MSG_ExtnName__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.0.9"
+}

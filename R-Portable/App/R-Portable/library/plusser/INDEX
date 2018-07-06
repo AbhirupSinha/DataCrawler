@@ -1,0 +1,10 @@
+harvestActivity         Retrieve the users that acted on a G+ post
+harvestPage             Retrieve the posts of a user's G+ page
+harvestProfile          Retrieve the profile of Google+ users
+parseAttachments        Parsing of post attachments
+parsePost               Parsing a Google+ post
+parseProfile            Parse profile
+plusser                 plusser: A Google+ API Interface for R
+searchPost              Searching for Google+ Posts
+searchProfile           Searching in Google+ Profiles
+setAPIkey               Sets an API key for the Google+ API

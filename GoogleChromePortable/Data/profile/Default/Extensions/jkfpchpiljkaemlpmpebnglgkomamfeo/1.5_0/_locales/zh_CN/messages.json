@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "关于 HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "单击下面的按钮"
+   },
+   "connection_error_header": {
+      "message": "连接错误"
+   },
+   "description": {
+      "message": "启动 HP Network Check 帮助解决网络连接问题"
+   },
+   "diagnose": {
+      "message": "HP 网络检测"
+   },
+   "error_desc": {
+      "message": "某个问题导致 Google Chrome 无法显示网页。  点击左侧按钮，启动 HP Network Check，以便自动诊断和修复该问题。"
+   },
+   "fix": {
+      "message": "解决方法"
+   },
+   "hpnc_desc_1": {
+      "message": "可以自动检测、诊断和修复众多常见的网络问题"
+   },
+   "hpnc_desc_2": {
+      "message": "与 Windows 网络诊断框架集成在一起，因此会同时运行这两个程序"
+   },
+   "hpnc_desc_3": {
+      "message": "提供清晰的说明解决无法自动修复的问题"
+   },
+   "hpnc_desc_4": {
+      "message": "显示关键的系统和网络信息帮助用户更轻松地排除故障"
+   },
+   "message_title": {
+      "message": "Google Chrome 无法显示该网页"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP 连接错误"
+   }
+}

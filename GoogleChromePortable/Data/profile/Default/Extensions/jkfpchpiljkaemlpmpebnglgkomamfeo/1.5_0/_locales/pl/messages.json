@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "O programie HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Kliknij poniższy przycisk"
+   },
+   "connection_error_header": {
+      "message": "Błąd połączenia"
+   },
+   "description": {
+      "message": "Uruchamia program HP Network Check, który naprawia problemy z połączeniem"
+   },
+   "diagnose": {
+      "message": "Tester sieci HP"
+   },
+   "error_desc": {
+      "message": "Problem uniemożliwił przeglądarce Google Chrome wyświetlenie strony internetowej.  Kliknij przycisk po lewej stronie, aby uruchomić narzędzie HP Network Check w celu automatycznego zdiagnozowania i naprawienia problemu."
+   },
+   "fix": {
+      "message": "POPRAWKA"
+   },
+   "hpnc_desc_1": {
+      "message": "Służy do automatycznego wykrywania i naprawiania wielu typowych problemów z połączeniem sieciowym."
+   },
+   "hpnc_desc_2": {
+      "message": "Zintegrowany z platformą Windows Network Diagnostics Framework, dzięki czemu może działać jednocześnie."
+   },
+   "hpnc_desc_3": {
+      "message": "Udziela zrozumiałych podpowiedzi, jak rozwiązać problemy, których nie można naprawić automatycznie."
+   },
+   "hpnc_desc_4": {
+      "message": "Podaje kluczowe informacje o sieci i systemie, ułatwiające identyfikację usterek."
+   },
+   "message_title": {
+      "message": "Program Google Chrome nie może wyświetlić witryny sieci Web"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Błąd połączenia"
+   }
+}

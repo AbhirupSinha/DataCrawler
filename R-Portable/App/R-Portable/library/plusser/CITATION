@@ -1,0 +1,16 @@
+year <- sub(".*(2[[:digit:]]{3})-.*", "\\1", meta$Date, perl = TRUE)
+vers <- paste("R package version", meta$Version)
+
+bibentry("Manual",
+   title = "plusser: A Google+ Interface for R",
+   author = person("Christoph", "Waldhauser"),
+   organization = "KDSS K Data Science Solutions",
+   address      = "Vienna, Austria",
+   year   = year,
+   note = vers,
+   url    = "http://kdss.at/",
+   mheader = "To cite plusser in publications use:",
+   mfooter = 
+     paste("A lot of time and effort went into creating plusser,",
+      "please cite it when using it for data retrieval.", sep = " ")
+)

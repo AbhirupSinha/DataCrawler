@@ -1,0 +1,33 @@
+Rfacebook-package       Access to Facebook API via R
+callAPI                 Make an API request
+fbOAuth                 Create OAuth token to Facebook R session
+getCheckins             Extract list of checkins of a Facebook friend
+getCommentReplies       Extract replies to comments on page post
+getEvents               Extract list of events from a public Facebook
+                        page or group
+getFQL                  Executes a FQL query to the Facebook Graph API
+getFriends              Extract list of friends with their information
+getGroup                Extract list of posts from a public Facebook
+                        group
+getInsights             Extract Insights metric from a Facebook page
+                        (admin role required)
+getLikes                Extract list of likes of a Facebook friend
+getNetwork              Extract network of friends of authenticated
+                        user
+getNewsfeed             Download recent posts from the authenticated
+                        user's newsfeed
+getPage                 Extract list of posts from a public Facebook
+                        page
+getPageToken            Get a page access token
+getPost                 Extract information about a public Facebook
+                        post
+getReactions            Extract total count of reactions to one or more
+                        Facebook posts
+getShares               Extract list of users who publicly shared a
+                        public Facebook post
+getUsers                Extract information about one or more Facebook
+                        users
+searchFacebook          Search public posts that mention a string
+searchGroup             Find Facebook ID of a group
+searchPages             Search pages that mention a string
+updateStatus            Update Facebook status from R

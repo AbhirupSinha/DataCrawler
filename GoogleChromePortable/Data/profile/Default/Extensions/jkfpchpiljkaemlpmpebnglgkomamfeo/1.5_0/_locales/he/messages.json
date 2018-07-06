@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "על 'בדיקת רשת של HP'"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "לחץ על הלחצן שלמטה"
+   },
+   "connection_error_header": {
+      "message": "שגיאת חיבור"
+   },
+   "description": {
+      "message": "מפעיל את 'בדיקת רשת של HP' המסייע לך לפתור בעיות בהתחברות"
+   },
+   "diagnose": {
+      "message": "בדיקת רשת של HP"
+   },
+   "error_desc": {
+      "message": "בעיה מנעה מ-Google Chrome להציג את דף האינטרנט.  לחץ על הלחצן שבצד שמאל כדי להפעיל את HP Network Check לצורך אבחון ותיקון אוטומטי של הבעיה."
+   },
+   "fix": {
+      "message": "תיקון"
+   },
+   "hpnc_desc_1": {
+      "message": "יכול לזהות, לאבחן ולתקן באופן אוטומטי בעיות רשת נפוצות רבות."
+   },
+   "hpnc_desc_2": {
+      "message": "משולב ב-Windows Network Diagnostics Framework (מסגרת אבחון רשת של Windows&rlm;), כך ששני הכלים פועלים בו-זמנית."
+   },
+   "hpnc_desc_3": {
+      "message": "מספק הוראות ברורות לפתרון בעיות שלא ניתן לתקן באופן אוטומטי."
+   },
+   "hpnc_desc_4": {
+      "message": "מציג מידע חיוני על המערכת והרשת, לפתרון בעיות קל יותר."
+   },
+   "message_title": {
+      "message": "Google Chrome אינו יכול להציג את דף האינטרנט"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "שגיאת חיבור HP"
+   }
+}

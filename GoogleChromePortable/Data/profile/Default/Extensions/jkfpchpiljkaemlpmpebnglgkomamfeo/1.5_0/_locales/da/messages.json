@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Om HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Klik på knappen nedenfor"
+   },
+   "connection_error_header": {
+      "message": "Forbindelsesfejl"
+   },
+   "description": {
+      "message": "Starter HP Network Check, som hjælper di gmed at løse forbindelsesproblemer"
+   },
+   "diagnose": {
+      "message": "HP Netværkskontrol"
+   },
+   "error_desc": {
+      "message": "Et problem forhindrer Google Chrome i at vise websiden.  Klik på knappen til venstre for at starte HP Network Check for automatisk at diagnosticere og løse problemet."
+   },
+   "fix": {
+      "message": "RETTELSE"
+   },
+   "hpnc_desc_1": {
+      "message": "Kan automatisk detektere, diagnosticere og reparere almindelige netværksforbindelser"
+   },
+   "hpnc_desc_2": {
+      "message": "Integreret med Windows Netværksdiagnosticering, så begge kører simultant"
+   },
+   "hpnc_desc_3": {
+      "message": "Giver præcis vejledning til at løse problemer, som ikke kan løses automatisk"
+   },
+   "hpnc_desc_4": {
+      "message": "Viser nøglesystemer og netværksoplysninger til nemmere fejlfinding"
+   },
+   "message_title": {
+      "message": "Google Chrome kan ikke vise websiden"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Forbindelsesfejl"
+   }
+}

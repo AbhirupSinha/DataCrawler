@@ -1,0 +1,21 @@
+Package: twitteR
+Title: R Based Twitter Client
+Description: Provides an interface to the Twitter web API.
+Version: 1.1.9
+Author: Jeff Gentry <geoffjentry@gmail.com>
+Maintainer: Jeff Gentry <geoffjentry@gmail.com>
+Depends: R (>= 2.12.0)
+Imports: methods, bit64, rjson, DBI (>= 0.3.1), httr (>= 1.0.0)
+Suggests: RSQLite, RMySQL
+License: Artistic-2.0
+LazyData: yes
+URL: http://lists.hexdump.org/listinfo.cgi/twitter-users-hexdump.org
+Collate: allGenerics.R base.R account.R statuses.R users.R trends.R
+        s4methods.R convert.R dm.R oauth.R comm.R followers.R search.R
+        db.R df_columns.R db_connections.R db_utils.R db_search.R
+        toys.R utils.R zzz.R
+NeedsCompilation: no
+Packaged: 2015-07-26 23:50:09 UTC; jgentry
+Repository: CRAN
+Date/Publication: 2015-07-29 00:27:59
+Built: R 3.4.1; ; 2017-08-20 17:15:50 UTC; windows

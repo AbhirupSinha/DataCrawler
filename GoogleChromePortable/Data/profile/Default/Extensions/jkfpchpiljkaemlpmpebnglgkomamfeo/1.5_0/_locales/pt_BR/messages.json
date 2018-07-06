@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Sobre o HP Network Check"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Clique no botão abaixo"
+   },
+   "connection_error_header": {
+      "message": "Erro de conexão"
+   },
+   "description": {
+      "message": "Inicia o HP Network Check que ajuda você a resolver problemas de conexão"
+   },
+   "diagnose": {
+      "message": "Verificação de Rede HP"
+   },
+   "error_desc": {
+      "message": "Um problema impediu o Google Chrome de exibir a página da web.  Clique no botão à esquerda para iniciar o HP Network Check para diagnosticar automaticamente o problema e solucioná-lo."
+   },
+   "fix": {
+      "message": "CORREÇÃO"
+   },
+   "hpnc_desc_1": {
+      "message": "Capaz de detectar, diagnosticar e reparar automaticamente muitos problemas conhecidos de rede."
+   },
+   "hpnc_desc_2": {
+      "message": "Integrado com Windows Network Diagnostics Framework, então ambos são executados simultaneamente"
+   },
+   "hpnc_desc_3": {
+      "message": "Fornecer instruções claras para resolver problemas que não podem ser corrigidos automaticamente"
+   },
+   "hpnc_desc_4": {
+      "message": "Demonstra as principais informações de sistema e rede para resolução de problemas mais fácil"
+   },
+   "message_title": {
+      "message": "O Google Chrome não pode exibir a página da web"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Erro de conexão"
+   }
+}

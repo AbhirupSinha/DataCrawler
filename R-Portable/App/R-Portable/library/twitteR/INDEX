@@ -1,0 +1,39 @@
+decode_short_url        A function to decode shortened URLs
+directMessage-class     Class "directMessage": A class to represent
+                        Twitter Direct Messages
+dmGet                   Functions to manipulate Twitter direct messages
+favorites               A function to get favorite tweets
+friendships             A function to detail relations between yourself
+                        & other users
+getCurRateLimitInfo     A function to retrieve current rate limit
+                        information
+getTrends               Functions to view Twitter trends
+getUser                 Functions to manage Twitter users
+get_latest_tweet_id     A function to retrieve the most recent tweet ID
+                        from a database
+import_statuses         Functions to import twitteR objects from
+                        various sources
+load_tweets_db          Functions to persist/load twitteR data to a
+                        database
+registerTwitterOAuth    Register OAuth credentials to twitter R session
+register_db_backend     Functions to setup a database backend for
+                        twitteR
+retweets                Functions to work with retweets
+searchTwitter           Search twitter
+search_twitter_and_store
+                        A function to store searched tweets to a
+                        database
+setup_twitter_oauth     Sets up the OAuth credentials for a twitteR
+                        session
+showStatus              Functions to return statuses
+status-class            Class to contain a Twitter status
+strip_retweets          A function to remove retweets
+taskStatus              A function to send a Twitter DM after
+                        completion of a task
+twListToDF              A function to convert twitteR lists to
+                        data.frames
+updateStatus            Functions to manipulate Twitter status
+use_oauth_token         Sets up the OAuth credentials for a twitteR
+                        session from an existing Token object
+user-class              A container object to model Twitter users
+userTimeline            Functions to view Twitter timelines

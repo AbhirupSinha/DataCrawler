@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Informationen zu HP-Netzwerktest"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Klicken Sie unten auf die Schaltfläche"
+   },
+   "connection_error_header": {
+      "message": "Verbindungsfehler"
+   },
+   "description": {
+      "message": "Startet das Hilfsprogramm HP-Netzwerktest, das Ihnen bei der Behebung von Netzwerkproblemen hilft."
+   },
+   "diagnose": {
+      "message": "HP Netzwerktest"
+   },
+   "error_desc": {
+      "message": "Ein Fehler ist aufgetreten. Google Chrome kann die Internetseite nicht anzeigen.  Klicken Sie auf die Schaltfläche auf der linken Seite, um HP Network Check zu starten und das Problem automatisch zu diagnostizieren und zu beheben."
+   },
+   "fix": {
+      "message": "BEHEBEN"
+   },
+   "hpnc_desc_1": {
+      "message": "Kann automatisch eine Vielzahl üblicher Netzwerkprobleme erkennen, diagnostizieren und beheben"
+   },
+   "hpnc_desc_2": {
+      "message": "Ist in Windows-Netzwerkdiagnose integriert, so dass beide Programme gleichzeitig ausgeführt werden"
+   },
+   "hpnc_desc_3": {
+      "message": "Stellt klare Anweisungen zur Behebung von Problemen bereit, die sich nicht automatisch beheben lassen"
+   },
+   "hpnc_desc_4": {
+      "message": "Unterstützt die Fehlerbehebung durch Bereitstellung wichtiger System- und Netzwerkinformationen"
+   },
+   "message_title": {
+      "message": "Google Chrome kann die Webseite nicht anzeigen"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Verbindungsfehler"
+   }
+}

@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Tietoja HP:n verkkotarkistuksesta"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Napsauta alla olevaa painiketta"
+   },
+   "connection_error_header": {
+      "message": "Yhteysvirhe"
+   },
+   "description": {
+      "message": "Käynnistää HP:n verkkotarkistuksen, joka auttaa korjaamaan yhteysongelmia"
+   },
+   "diagnose": {
+      "message": "HP:n verkkotarkistusohjelma"
+   },
+   "error_desc": {
+      "message": "Ongelma estää Google Chrome näyttämästä verkkosivua.  Käynnistä HP Network Check määrittämään ja korjaamaan ongelma automaattisesti napsauttamalla vasemmalla olevaa painiketta."
+   },
+   "fix": {
+      "message": "KORJAA"
+   },
+   "hpnc_desc_1": {
+      "message": "Tunnistaa, diagnosoi ja korjaa monia yleisiä verkkovirheitä automaattisesti"
+   },
+   "hpnc_desc_2": {
+      "message": "Integroitu Windowsin verkon diagnostiikkaan, joten molempia voidaan käyttää yhtä aikaa"
+   },
+   "hpnc_desc_3": {
+      "message": "Antaa selkeät ohjeet sellaisten virheiden korjaamiseksi, joita ei voida korjata automaattisesti"
+   },
+   "hpnc_desc_4": {
+      "message": "Näyttää järjestelmän ja verkon avaintiedot vianmäärityksen helpottamiseksi"
+   },
+   "message_title": {
+      "message": "Google Chrome ei voi näyttää verkkosivua"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Yhteysvirhe"
+   }
+}

@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "O testu omrežja HP"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Kliknite spodnji gumb"
+   },
+   "connection_error_header": {
+      "message": "Napaka pri povezavi"
+   },
+   "description": {
+      "message": "Sproži test omrežja HP, ki vam pomaga reševati težave s povezavo"
+   },
+   "diagnose": {
+      "message": "Test omrežja HP"
+   },
+   "error_desc": {
+      "message": "Google Chrome ni mogel prikazati spletne strani zaradi težave.  Kliknite gumb na levi, da zaženete HP Network Check za samodejno diagnosticiranje in odpravo težave."
+   },
+   "fix": {
+      "message": "POPRAVI"
+   },
+   "hpnc_desc_1": {
+      "message": "Samodejno lahko zazna, prepozna in odpravi številne pogoste težave z omrežjem."
+   },
+   "hpnc_desc_2": {
+      "message": "Vgrajen je v ogrodje Windows Network Diagnostics Framework, zato se oba izvajata sočasno."
+   },
+   "hpnc_desc_3": {
+      "message": "Podaja jasna navodila za odpravljanje težav, ki jih ni mogoče odpraviti samodejno."
+   },
+   "hpnc_desc_4": {
+      "message": "Prikazuje ključne sistemske in omrežne podatke za preprostejše odpravljanje težav."
+   },
+   "message_title": {
+      "message": "Google Chrome ne more prikazati spletne strani"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Napaka pri povezavi"
+   }
+}

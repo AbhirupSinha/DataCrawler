@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "關於 HP 網路檢查"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "按一下下方的按鈕"
+   },
+   "connection_error_header": {
+      "message": "連線錯誤"
+   },
+   "description": {
+      "message": "啟動 HP 網路檢查，協助您解決連線問題"
+   },
+   "diagnose": {
+      "message": "HP 網路檢查"
+   },
+   "error_desc": {
+      "message": "導致 Google Chrome 無法顯示網頁的錯誤。  按一下左邊的按鈕即可啟動 HP Network Check (HP 網路檢查)，自動診斷並修復該問題。"
+   },
+   "fix": {
+      "message": "修復"
+   },
+   "hpnc_desc_1": {
+      "message": "可以自動偵測、診斷及修復許多一般網路問題"
+   },
+   "hpnc_desc_2": {
+      "message": "整合於 Windows 網路診斷架構，因此兩者可以同時執行"
+   },
+   "hpnc_desc_3": {
+      "message": "提供明確的指示，解決無法自動修復的問題"
+   },
+   "hpnc_desc_4": {
+      "message": "顯示重要的系統和網路資訊，簡化疑難排解程序"
+   },
+   "message_title": {
+      "message": "Google Chrome 無法顯示網頁"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP 連線錯誤"
+   }
+}

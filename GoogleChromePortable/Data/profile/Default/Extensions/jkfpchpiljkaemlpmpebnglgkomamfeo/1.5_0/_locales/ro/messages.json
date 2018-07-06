@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Despre Verificare reţea HP"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Faceţi clic pe butonul de mai jos"
+   },
+   "connection_error_header": {
+      "message": "Eroare de conexiune"
+   },
+   "description": {
+      "message": "Lansează Verificare reţea HP care vă ajută să rezolvaţi probleme de conectare"
+   },
+   "diagnose": {
+      "message": "Verificare reţea HP"
+   },
+   "error_desc": {
+      "message": "O problemă împiedică Google Chrome să afişeze pagina web.  Faceţi clic pe butonul din stânga pentru a lansa aplicaţia HP Network Check pentru a diagnostica şi remedia automat problema."
+   },
+   "fix": {
+      "message": "REMEDIERE"
+   },
+   "hpnc_desc_1": {
+      "message": "Poate detecta, diagnostica şi repara în mod automat multe probleme de reţea comune"
+   },
+   "hpnc_desc_2": {
+      "message": "Integrată cu Cadrul de diagnosticare reţea, astfel încât rulează ambele simultan"
+   },
+   "hpnc_desc_3": {
+      "message": "Oferă instrucţiuni clare pentru a rezolva probleme care nu pot fi reparate în mod automat"
+   },
+   "hpnc_desc_4": {
+      "message": "Afişează informaţii  cheie despre sistem şi reţea pentru depanare mai uşoară"
+   },
+   "message_title": {
+      "message": "Google Chrome nu poate afişa pagina Web"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Eroare de conexiune"
+   }
+}

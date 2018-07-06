@@ -1,0 +1,73 @@
+ Program starts execution at  2017-08-30 08:40:46 
+Authentication starts  2017-08-30 08:40:46 
+Authentication completed  2017-08-30 08:40:46 
+Starting time for searching posts which have the search string named:  Batman :  2017-08-30 08:40:46 
+Finishing time for searching posts which have the given search string:  2017-08-30 08:40:55 
+Starting time for going through each post:  2017-08-30 08:40:55 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-30 08:40:55 	 z13mdpfpkoqdx1cao04cej1pcra4tjoictw0k 		 1 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13tfhjgltauxzriq04ch3y5iln3hnmboek 		 2 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12hsdzyskafthmiz04ccx2oplv3erujn2w 		 3 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z125jpjasluldx1mf22mxxbaclehtt1f5 		 4 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13sdzyiqnyaj15ac04cj1vqipf5t1mjx3g 		 5 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12yi5vzfn2ujxxkn23vxfcj3wjot13kp 		 6 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12lershakj4epd5b04cjdjaooz0tj2iqyo0k 		 7 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12jif0p2pujevkvd224wt1ztlu0i50ia04 		 8 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13nyjv52zfuwzuzl04ceziwuxvat134mus0k 		 
+ 2017-08-30 08:40:55 	 z13svznqcnziufiqd04cgbta0rqkhprhnyw0k 		 10 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12le1tgcu3wytixd04cgrr4ytznvx1i1u00k 		 11 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12hxhdgdwefytrr004cf14jnynwz1t4dic 		 12 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13jyfq5rkqmgrpzc04ch1p4uufdzznhdvs0k 		 13 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z121jdcoetacu5bzf04cf14jnynwz1t4dic 		 14 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12lh5n4vor5j11vx22pyhnyfvjyixobo04 		 
+ 2017-08-30 08:40:55 	 z12mgbcrcvrqh3gds23led0arpzsuj4u0 		 16 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12jcdvxgonaijxu423vzrriwsjsytx3p 		 
+ 2017-08-30 08:40:55 	 z13lgxswbvykvvkby04cfrtynr2fshmim30 		 18 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13xzls5oxuih3xbe04cgdwrmtyrj1e41us0k 		 19 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z125s3lwowegincia04cf14jnynwz1t4dic 		 20 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13qjdgydybbz5kbe04cjjtwpsi1urmpwpk0k 		 21 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12ne53qprzkvtno004cddwohuehspjrkag 		 22 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z120ihmzumnidplk422yvlqzqtavjzptd 		 
+ 2017-08-30 08:40:55 	 z133gf1arkycft31d22nv53wdtrozfyjv04 		 24 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13wgj1xyueucpkdd23vzrriwsjsytx3p 		 
+ 2017-08-30 08:40:55 	 z13rtpwykzqssptqe04cf5ozntjnt5wameo 		 26 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z122jvaorwivi3n3423rijug1u3exzefy 		 
+ 2017-08-30 08:40:55 	 z12kch0q4wuwzf1sv235glxilwbjhpxdi 		 28 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12ayrax2uneivegr04cjfoqxsemhbkpkxg0k 		 29 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12nyvog0vvidrijz04cch0pwmyjsvha5jg 		 
+ 2017-08-30 08:40:55 	 z12yylcphsqtenz5a04cjpfyduu3z5l5kss0k 		 31 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12jer3yroqfhdyli22pghf45pzng5yjf04 		 32 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12vjvrqwpnohle2y23mt3j42u2mzdh3j 		 33 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13adxphjubdfxztu23qippxgkbmezyx004 		 34 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12gi3lbuxuohxilv223ydmqgre5x5fz204 		 35 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13czfopwreminj4k04cgn2ahrjzdnixu3s 		 36 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13wvvrypqiswxvlc23st53avxr1dnnfe 		 37 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12eszqjrxenflhin04cevcohknndr5zw3c 		 38 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12qdxy53kuzgrfrb04cgzyjrrenthjrej4 		 39 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12kvtsr1ufayf1bz04cd1vzhle5g3ox24k 		 40 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13xtnib3peigrrp204ce325nlayuxphzeg 		 41 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12qyjaynzfewddfo23ribvgfqaejnx5v04 		 
+ 2017-08-30 08:40:55 	 z13yvx2qbovzjphjs04cctjphwe2hldxsng0k 		 43 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z125dnhgvmj4tbv5b04cebxobmndy5ojnc4 		 44 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13rtdvonpnuudcmx23sjrlxvtjyv5dmj 		 45 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z120inmhtvrifftxz04cg5cjepjxd1jgj1g 		 46 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12fyzvjmw3stpa2e22uw3jjlvvywrvsd 		 
+ 2017-08-30 08:40:55 	 z13gjp1adtnaed55z04cdt1q2nnpwzxxeno0k 		 
+ 2017-08-30 08:40:55 	 z13fyjg5aqqzwzmv223jhhgguy3svnunq 		 49 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13gy1xj4syqgniix04cjdlhnvu4ibhqt3c 		 50 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12rjfownny3spsju04cdj1bkwnvczfwbcw 		 51 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13iipwrrpf2z3egf04cfjnjawigs3zidyc0k 		 52 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12jz52wkvbfv3h2122fsdwb4yubuz1ub 		 53 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12rgxrb1mitjljbk04ccdvxlqi1extp554 		 54 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z12bvfjyykj1ebotf22qzluwztjeclotr 		 55 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z130xhriglyqjpeeu23tz3wzhvf4j5h5z04 		 56 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13xgr3y0u3vx513g23lhjsozsmxwpjlr 		 57 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13adlj4bvimixw1q22tgregvk2ku10hn04 		 58 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z13ghxfzexzqxhasv22zg5opxv2ge5rh104 		 59 		 2017-08-30 08:40:55 
+ 2017-08-30 08:40:55 	 z125wd2pmlzrshxvh232zpyicxzsjhibo04 		 60 		 2017-08-30 08:40:55 
+
+
+
+ 
+
+ Total time taken is  9.07477211952209

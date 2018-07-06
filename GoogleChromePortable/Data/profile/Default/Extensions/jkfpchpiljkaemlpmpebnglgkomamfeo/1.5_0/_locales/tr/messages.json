@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "HP Ağ Denetimi Hakkında"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "คลิกปุ่มด้านล่างAşağıdaki düğmeye tıklayın"
+   },
+   "connection_error_header": {
+      "message": "Bağlantı Hatası"
+   },
+   "description": {
+      "message": "Bağlantı sorunlarını çözmenize yardımcı olacak şekilde HP Ağ Denetimini başlatır"
+   },
+   "diagnose": {
+      "message": "HP Ağ Denetimi"
+   },
+   "error_desc": {
+      "message": "Bir sorun nedeniyle Google Chrome'ın web sayfasını görüntülemesi engellendi.  Sorunun otomatik olarak tespit edilmesi ve onarılması için soldaki düğmeye tıklayarak HP Ağ Denetimi'ni başlatın."
+   },
+   "fix": {
+      "message": "ONAR"
+   },
+   "hpnc_desc_1": {
+      "message": "çoğu sık karşılaşılan sorunları otomatik olarak algılayabilir, tanılayabilir ve onarabilir."
+   },
+   "hpnc_desc_2": {
+      "message": "Windows Network Diagnostics Framework ile entegre çalışır, bö;ylece her ikisi aynı anda çalışır"
+   },
+   "hpnc_desc_3": {
+      "message": "Otomatik olarak düzeltilemeyen sorunları çö;zmek için, anlaşılır yö;nergeler sunar"
+   },
+   "hpnc_desc_4": {
+      "message": "Daha kolay sorun giderme için, kilit sistem ve ağ bilgilerini gö;sterir"
+   },
+   "message_title": {
+      "message": "Google Chrome web sayfasını gö;steremiyor"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Bağlantı Hatası"
+   }
+}

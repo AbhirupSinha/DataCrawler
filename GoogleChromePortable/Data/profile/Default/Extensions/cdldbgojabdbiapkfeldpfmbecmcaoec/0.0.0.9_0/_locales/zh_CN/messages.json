@@ -1,0 +1,10 @@
+{
+   "ExtnName": {
+      "Description": "Extension name",
+      "message": "Bing Homepage"
+   },
+   "homePage": {
+      "Description": "Homepage",
+      "message": "&mkt=zh-CN"
+   }
+}

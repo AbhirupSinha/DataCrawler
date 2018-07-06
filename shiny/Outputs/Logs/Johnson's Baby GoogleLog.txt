@@ -1,0 +1,503 @@
+ Program starts execution at  2017-08-27 20:28:45 
+Authentication starts  2017-08-27 20:28:45 
+Authentication completed  2017-08-27 20:28:46 
+Starting time for searching posts which have the search string named:  Johnson's Baby :  2017-08-27 20:28:46 
+Finishing time for searching posts which have the given search string:  2017-08-27 20:28:53 
+Starting time for going through each post:  2017-08-27 20:28:53 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-27 20:28:53 	 z13hzxvperjau1ur204cj30acle3fbrxdu40k 		 1 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12mhlpxskaneneuv23xdr4hsor0xhygc04 		 
+ 2017-08-27 20:28:53 	 z12ycxsx4yu5slikm23xi1xhlybpv1yxe04 		 3 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12xdhzyksvjghz5504cgjmipufyv3diwyk0k 		 4 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 5 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12gupzg5se0ijurd04ccbcjbpaujnvzqbg 		 6 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12gt14xumn5zx2w404cjlsgop2ahdjxspc0k 		 7 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12lg1awgwy4h5hdk222y3fxqrvhftegu04 		 8 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z131hnrielqzud1qi04cedwatunzzp45a0s 		 9 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13dt3njizecgxyql04cdd3ifwfejhhprgw 		 10 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12ljrhxbzubzfk5t04cgjaruzrzupzzvow0k 		 11 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12eyjkwxmznjlcv122jyb0i0tbwglfse 		 
+ 2017-08-27 20:28:53 	 z124traaylicz3uvf23esnhqfzyxvdr5a04 		 13 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13wtz5w3t24y5f0j23jt3pjdonptpgzm04 		 14 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12gs5swey22yrhay04chhqqgvvtcbrh2ps0k 		 15 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z135ezsg0qbztvpga04chhqqgvvtcbrh2ps0k 		 
+ 2017-08-27 20:28:53 	 z13oip24vsrxcbcxb04cd35qeyele5ozysc0k 		 17 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z134v1tqitqohnbny22bidmrssrrw5kp104 		 18 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13avvrr4naas3fu022mv10agveeithyn04 		 19 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12mx3ma4qvmenrid04ccbwp5yz4xn5a3rc0k 		 20 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13ywh1wuouhgb31b235y3mqgmfve5sfw 		 21 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13hh1vopqn2tt1op04cdzko3xu5fxeatks0k 		 22 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13ojny5bvreh3p4k04celi50kzyff55c34 		 23 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12gtzoq1zavunmlc22lxhyympnjfb0sm 		 24 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z124h3voeqqkyhh03235ztyxtofrgjuvi 		 
+ 2017-08-27 20:28:53 	 z13wfbbjwmqlct4u123ldz3jbrmkwns5w04 		 26 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13oujqy4zmqhposc23wtfrysknautwax04 		 27 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12utnczwkngwjt0a23exjiyrkj4jt52i 		 28 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12rdrexyzzpwf3dk23rit4xkrajjrrva 		 29 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12lv1lbnrbagp4fj23sgfwhno2hin0qs04 		 30 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12pudcyvtm5xtrit04cd3ojuwuqcxlbbaw 		 31 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12ljrn44zmgzfrrv04ccher2oaaxxl5lb4 		 32 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12wjbcpfwr1jnxvq23ag32b3ymjyjfqi04 		 33 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12qglijqwajgtewt04cdzsw1s34zlm5j1c 		 
+ 2017-08-27 20:28:53 	 z12iizhawlf4ubi5t04cghjj5pj2dfoo44w 		 35 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13vtlnzbmbrtftz504cdfbx4mzmd35w52k 		 36 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12mznpqut2oit5y004cc1vgdputhvqi5kc0k 		 
+ 2017-08-27 20:28:53 	 z121itnhvonbsj1im04cdxex0kvitrjilmk0k 		 38 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13ijvkqolq2wjtiz04chzdptxqrjh2ptl40k 		 39 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12fyzggew32dp3b204cd5aosyfxhxmhvww0k 		 40 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12xj3dwulnsfhcht04ccbgjane0g1txqrw0k 		 41 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z120v34ysyuicrus322eyx4j2ou3uvtk2 		 42 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12gy1qjunmhftdlh23bebmb1tnjsf0ui 		 43 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13ectrryl35xzobp04cgzn5zznuttvjef4 		 44 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13mhvf45sfaxr3lg23cz5aqtyvjvti1s 		 45 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12vfh444xrze5dgx04cdrbbfrm2xfzqhdw 		 
+ 2017-08-27 20:28:53 	 z12btx4q0vniixzlx22pcrx4arb3ul0z404 		 47 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12du3fpeyedslx2j225i1kzfzybdzdxp04 		 48 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13ve1xxmtbzx5kv523sdfgg0se1jt02t 		 49 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12edvjztryahb0xp04cj1dhkvalhpng0so0k 		 50 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13ns5fjxurpybqdg22mzbaywznswf0pn04 		 51 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12qzhvb0yfptfhdt23sefgatofhgv0a504 		 52 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12zwfkztn3phbnyj04ce12ylrnmin5orrk0k 		 
+ 2017-08-27 20:28:53 	 z12muvcrss2hsxpd522ecvmz2unvfhhvb 		 54 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13osdfalvuoftao404cgvb5ymu1yrr5ep00k 		 55 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13fvzwx3najf3b1p22bidmrssrrw5kp104 		 56 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z125v1zipwnwzvwpo04cczzjsnbozbxovx40k 		 57 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z12celcofvbwchplx23gilojkvfgs5x2a 		 58 		 2017-08-27 20:28:53 
+ 2017-08-27 20:28:53 	 z13qspdwfvv1irjnm23wvfcrekays3sir04 		 
+ 2017-08-27 20:28:53 	 z13eztkigtqiebl4204ccvv4tnjmub5abh4 		 60 		 2017-08-27 20:28:53 
+
+
+
+ 
+
+ Total time taken is  7.83595395088196 Program starts execution at  2017-08-28 23:34:06 
+Authentication starts  2017-08-28 23:34:06 
+Authentication completed  2017-08-28 23:34:06 
+Starting time for searching posts which have the search string named:  Johnson's Baby :  2017-08-28 23:34:06 
+Finishing time for searching posts which have the given search string:  2017-08-28 23:34:15 
+Starting time for going through each post:  2017-08-28 23:34:15 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-28 23:34:15 	 z12zdrdipmnuhnxfz23yjlvzokvytfcfv 		 1 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z125hbhj2vmwd1gtd23uyvxbkye3ybj3m 		 2 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ufrgxyz32gdatg224illpitvoubztc 		 
+ 2017-08-28 23:34:15 	 z12cuna4skrdxfi1s22lhj4wayquchoab04 		 4 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13jc3mxxy3vidrqp04cglro4napftwpo4c 		 5 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ycxsx4yu5slikm23xi1xhlybpv1yxe04 		 6 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 7 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gupzg5se0ijurd04ccbcjbpaujnvzqbg 		 8 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gt14xumn5zx2w404cjlsgop2ahdjxspc0k 		 9 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12lg1awgwy4h5hdk222y3fxqrvhftegu04 		 10 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z131hnrielqzud1qi04cedwatunzzp45a0s 		 11 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ljrhxbzubzfk5t04cgjaruzrzupzzvow0k 		 12 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12eyjkwxmznjlcv122jyb0i0tbwglfse 		 
+ 2017-08-28 23:34:15 	 z124traaylicz3uvf23esnhqfzyxvdr5a04 		 14 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13wtz5w3t24y5f0j23jt3pjdonptpgzm04 		 15 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gs5swey22yrhay04chhqqgvvtcbrh2ps0k 		 16 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z135ezsg0qbztvpga04chhqqgvvtcbrh2ps0k 		 
+ 2017-08-28 23:34:15 	 z13oip24vsrxcbcxb04cd35qeyele5ozysc0k 		 18 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z134v1tqitqohnbny22bidmrssrrw5kp104 		 19 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13avvrr4naas3fu022mv10agveeithyn04 		 20 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12mx3ma4qvmenrid04ccbwp5yz4xn5a3rc0k 		 21 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ywh1wuouhgb31b235y3mqgmfve5sfw 		 22 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13hh1vopqn2tt1op04cdzko3xu5fxeatks0k 		 23 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ojny5bvreh3p4k04celi50kzyff55c34 		 24 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gtzoq1zavunmlc22lxhyympnjfb0sm 		 25 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z124h3voeqqkyhh03235ztyxtofrgjuvi 		 
+ 2017-08-28 23:34:15 	 z13wfbbjwmqlct4u123ldz3jbrmkwns5w04 		 27 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13oujqy4zmqhposc23wtfrysknautwax04 		 28 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12rdrexyzzpwf3dk23rit4xkrajjrrva 		 29 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12lv1lbnrbagp4fj23sgfwhno2hin0qs04 		 30 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12pudcyvtm5xtrit04cd3ojuwuqcxlbbaw 		 31 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ljrn44zmgzfrrv04ccher2oaaxxl5lb4 		 32 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12wjbcpfwr1jnxvq23ag32b3ymjyjfqi04 		 33 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12tfb3rok2iyzuqj04ccxtaez32yzkq2o40k 		 34 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12qglijqwajgtewt04cdzsw1s34zlm5j1c 		 
+ 2017-08-28 23:34:15 	 z12iizhawlf4ubi5t04cghjj5pj2dfoo44w 		 36 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13vtlnzbmbrtftz504cdfbx4mzmd35w52k 		 37 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12mznpqut2oit5y004cc1vgdputhvqi5kc0k 		 
+ 2017-08-28 23:34:15 	 z12lxjnxxyb0wv5in04circa4wiff15aj0k 		 39 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z121itnhvonbsj1im04cdxex0kvitrjilmk0k 		 40 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13pjjsjgqr2yvshm04ccty4mz2mgnfyd5s 		 41 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12fyzggew32dp3b204cd5aosyfxhxmhvww0k 		 42 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z120v34ysyuicrus322eyx4j2ou3uvtk2 		 43 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gy1qjunmhftdlh23bebmb1tnjsf0ui 		 44 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ectrryl35xzobp04cgzn5zznuttvjef4 		 45 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z134ivxo1tv5gxxrz04cgbt5axazhpcqreg 		 46 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13mhvf45sfaxr3lg23cz5aqtyvjvti1s 		 47 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ntvb55kqijlzt422xgdg5rrunzhswo04 		 48 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12vfh444xrze5dgx04cdrbbfrm2xfzqhdw 		 
+ 2017-08-28 23:34:15 	 z12btx4q0vniixzlx22pcrx4arb3ul0z404 		 50 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12uttlgrmbscte0e23ss1m4ekutxzeil04 		 51 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z130j1sqpxvgft15s04cj30acle3fbrxdu40k 		 52 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ve1xxmtbzx5kv523sdfgg0se1jt02t 		 53 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12edvjztryahb0xp04cj1dhkvalhpng0so0k 		 54 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ns5fjxurpybqdg22mzbaywznswf0pn04 		 55 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12qzhvb0yfptfhdt23sefgatofhgv0a504 		 56 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12zwfkztn3phbnyj04ce12ylrnmin5orrk0k 		 
+ 2017-08-28 23:34:15 	 z12muvcrss2hsxpd522ecvmz2unvfhhvb 		 58 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13osdfalvuoftao404cgvb5ymu1yrr5ep00k 		 59 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z125v1zipwnwzvwpo04cczzjsnbozbxovx40k 		 60 		 2017-08-28 23:34:15 
+
+
+
+ 
+
+ Total time taken is  9.14513802528381 Program starts execution at  2017-08-28 23:34:06 
+Authentication starts  2017-08-28 23:34:06 
+Authentication completed  2017-08-28 23:34:06 
+Starting time for searching posts which have the search string named:  Johnson's Baby :  2017-08-28 23:34:06 
+Finishing time for searching posts which have the given search string:  2017-08-28 23:34:15 
+Starting time for going through each post:  2017-08-28 23:34:15 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-28 23:34:15 	 z12zdrdipmnuhnxfz23yjlvzokvytfcfv 		 1 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z125hbhj2vmwd1gtd23uyvxbkye3ybj3m 		 2 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ufrgxyz32gdatg224illpitvoubztc 		 
+ 2017-08-28 23:34:15 	 z12cuna4skrdxfi1s22lhj4wayquchoab04 		 4 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13jc3mxxy3vidrqp04cglro4napftwpo4c 		 5 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ycxsx4yu5slikm23xi1xhlybpv1yxe04 		 6 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 7 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gupzg5se0ijurd04ccbcjbpaujnvzqbg 		 8 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gt14xumn5zx2w404cjlsgop2ahdjxspc0k 		 9 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12lg1awgwy4h5hdk222y3fxqrvhftegu04 		 10 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z131hnrielqzud1qi04cedwatunzzp45a0s 		 11 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ljrhxbzubzfk5t04cgjaruzrzupzzvow0k 		 12 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12eyjkwxmznjlcv122jyb0i0tbwglfse 		 
+ 2017-08-28 23:34:15 	 z124traaylicz3uvf23esnhqfzyxvdr5a04 		 14 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13wtz5w3t24y5f0j23jt3pjdonptpgzm04 		 15 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gs5swey22yrhay04chhqqgvvtcbrh2ps0k 		 16 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z135ezsg0qbztvpga04chhqqgvvtcbrh2ps0k 		 
+ 2017-08-28 23:34:15 	 z13oip24vsrxcbcxb04cd35qeyele5ozysc0k 		 18 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z134v1tqitqohnbny22bidmrssrrw5kp104 		 19 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13avvrr4naas3fu022mv10agveeithyn04 		 20 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12mx3ma4qvmenrid04ccbwp5yz4xn5a3rc0k 		 21 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ywh1wuouhgb31b235y3mqgmfve5sfw 		 22 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13hh1vopqn2tt1op04cdzko3xu5fxeatks0k 		 23 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ojny5bvreh3p4k04celi50kzyff55c34 		 24 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gtzoq1zavunmlc22lxhyympnjfb0sm 		 25 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z124h3voeqqkyhh03235ztyxtofrgjuvi 		 
+ 2017-08-28 23:34:15 	 z13wfbbjwmqlct4u123ldz3jbrmkwns5w04 		 27 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13oujqy4zmqhposc23wtfrysknautwax04 		 28 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12rdrexyzzpwf3dk23rit4xkrajjrrva 		 29 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12lv1lbnrbagp4fj23sgfwhno2hin0qs04 		 30 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12pudcyvtm5xtrit04cd3ojuwuqcxlbbaw 		 31 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ljrn44zmgzfrrv04ccher2oaaxxl5lb4 		 32 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12wjbcpfwr1jnxvq23ag32b3ymjyjfqi04 		 33 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12tfb3rok2iyzuqj04ccxtaez32yzkq2o40k 		 34 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12qglijqwajgtewt04cdzsw1s34zlm5j1c 		 
+ 2017-08-28 23:34:15 	 z12iizhawlf4ubi5t04cghjj5pj2dfoo44w 		 36 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13vtlnzbmbrtftz504cdfbx4mzmd35w52k 		 37 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12mznpqut2oit5y004cc1vgdputhvqi5kc0k 		 
+ 2017-08-28 23:34:15 	 z12lxjnxxyb0wv5in04circa4wiff15aj0k 		 39 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z121itnhvonbsj1im04cdxex0kvitrjilmk0k 		 40 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13pjjsjgqr2yvshm04ccty4mz2mgnfyd5s 		 41 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12fyzggew32dp3b204cd5aosyfxhxmhvww0k 		 42 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z120v34ysyuicrus322eyx4j2ou3uvtk2 		 43 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12gy1qjunmhftdlh23bebmb1tnjsf0ui 		 44 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ectrryl35xzobp04cgzn5zznuttvjef4 		 45 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z134ivxo1tv5gxxrz04cgbt5axazhpcqreg 		 46 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13mhvf45sfaxr3lg23cz5aqtyvjvti1s 		 47 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12ntvb55kqijlzt422xgdg5rrunzhswo04 		 48 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12vfh444xrze5dgx04cdrbbfrm2xfzqhdw 		 
+ 2017-08-28 23:34:15 	 z12btx4q0vniixzlx22pcrx4arb3ul0z404 		 50 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12uttlgrmbscte0e23ss1m4ekutxzeil04 		 51 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z130j1sqpxvgft15s04cj30acle3fbrxdu40k 		 52 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ve1xxmtbzx5kv523sdfgg0se1jt02t 		 53 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12edvjztryahb0xp04cj1dhkvalhpng0so0k 		 54 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13ns5fjxurpybqdg22mzbaywznswf0pn04 		 55 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12qzhvb0yfptfhdt23sefgatofhgv0a504 		 56 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z12zwfkztn3phbnyj04ce12ylrnmin5orrk0k 		 
+ 2017-08-28 23:34:15 	 z12muvcrss2hsxpd522ecvmz2unvfhhvb 		 58 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z13osdfalvuoftao404cgvb5ymu1yrr5ep00k 		 59 		 2017-08-28 23:34:15 
+ 2017-08-28 23:34:15 	 z125v1zipwnwzvwpo04cczzjsnbozbxovx40k 		 60 		 2017-08-28 23:34:15 
+
+
+
+ 
+
+ Total time taken is  9.14513802528381 
+Starting time for searching posts which have the search string named:  Baby Shampoo :  2017-08-28 23:34:16 
+Finishing time for searching posts which have the given search string:  2017-08-28 23:34:23 
+Starting time for going through each post:  2017-08-28 23:34:23 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-28 23:34:23 	 z12bhlz5syident3h22wxbgi0on5hharg04 		 1 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12scbhj4yyovxv4y04ce3njkpeavfspwwc0k 		 2 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z121ddhwqtfvg1ab104ccrcj3zizyjnx1yk0k 		 3 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 4 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13rvvzheoaovnndb22ailibnyvasbdgr04 		 5 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13qdlcybmj0i1zq504cfbeh3kvxvpvrbh0 		 6 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12ky34ytpjjztawp04cfnoxls2mgppouxk0k 		 7 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z123up1a5veavhewp04chb1bprmfj5jbqo40k 		 8 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13twfpryn3pefa5i04cetz4npqvsj1qojw 		 9 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13eczdj0vm2trgpp04cetz4npqvsj1qojw 		 10 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13ggbprkwidhfldc230srtaloz0clu2g 		 11 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12dxfvztpjcztddl22pdrxzkunzg354304 		 12 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13aifgavyu4hlse222jyb0i0tbwglfse 		 
+ 2017-08-28 23:34:23 	 z134yxggdri3wzvpk04cgzgh0nrbhbgjfhg 		 14 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12yxjbwymr1xhp5e04cfdo41xu1zrhyol00k 		 15 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13fevkidnepft51i23afjhopyznxx1n1 		 16 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13iwtfw1oylfh0zc04ccdywsza2c5iomqc0k 		 
+ 2017-08-28 23:34:23 	 z122zhqbkmbhd3qgc04cf3bacmemwlzglcs 		 18 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z122zdor0tukxd1jj04cirxzdrjhjf1ymrw0k 		 19 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12jcf3zczfsevjwt04ccd1wtnawfd14d2k 		 20 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12zgdoazt2vgx12l221s35a4vfcjz5zw04 		 21 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12gcdni5pe2hrsyf04cf3bacmemwlzglcs 		 22 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z134t3or5yyeyfx0p233itohatjgfnxfl 		 23 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12ltvwjguictryml22qidbbcn3mhrhgw04 		 24 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z131inboczy1f53dy23ns13idqrkvjpkq 		 25 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z122vzdr4teftvhvb22hthaxnry5xti2n 		 26 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13vufw4sum2w1ndt220fhhytyygyhor004 		 
+ 2017-08-28 23:34:23 	 z12mwhyrpkrmgp3mz22jyb0i0tbwglfse 		 
+ 2017-08-28 23:34:23 	 z12uw3hbrp33e3wbp04chtwwskzeht45jvc0k 		 29 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13lgxxj1kulx5ons22iszwh5kijsduec 		 30 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z131g50g1xqecvp1i22mu1u4qwjsi1des 		 
+ 2017-08-28 23:34:23 	 z13hxbs53xegg105z04cf1gpsyzthb4wkxw0k 		 32 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12ryjpqay21c55fq22bidmrssrrw5kp104 		 33 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12rsb2gzl2kd1rpu04cd5cblqecdpcrah0 		 34 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12eij2goyaovjkvo22pd3linr30hj3rj04 		 35 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13xd525ax3myl3dp22pv3bzmunnj35vs 		 36 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12tc1ojhpnhiff2t23dibnhwkzdd5igj04 		 37 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13jufbrvkbbfbk1o22cw1wj2trhyvlxx04 		 38 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13lhpyxrufygz1yk04cjlvg5naye3xabww0k 		 39 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z122vbibvwershvz004chnxi5lvrg1ir0bo 		 40 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z130dpgxbkbxuhjqn04chjkymwfmyb3yok00k 		 41 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13dvtbwutikf5502231exj4rlaew1ts5 		 42 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z132fbea3rryxnzlo23xx1zqjmnzwpchm04 		 43 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12ssvji5o20ydgw304cg1rjixnyzvm4woo0k 		 44 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12fjf2gxteqvhirj04cgl2ykyn5yvwhn2o 		 
+ 2017-08-28 23:34:23 	 z12tjrswttakyj0wh04cdzsw1s34zlm5j1c 		 
+ 2017-08-28 23:34:23 	 z13pupmrlo22u5mdu22wxbgi0on5hharg04 		 47 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z120gf0ipxnld5mdm22ic5gi5kzbfzkhw04 		 48 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13evpnr1pmfznvy504cdbuokxvjxp0j02c 		 
+ 2017-08-28 23:34:23 	 z13acr2iny2sybum222mxnyo5or5wh0oz04 		 50 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13afvga1mfoy30qm04cctu5syjvgv0x5mw0k 		 51 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z135sfxxprztexjwa04cgh2jctqvuzeb3jc 		 52 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13ywvkisszmeleyn04cfbmgukerhhuxy2o 		 53 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12ehvkqmnacwxoxj04cehfykrmoijxop4w 		 54 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12uy3aaezuds1jki23addkormv0xjeql04 		 55 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13nf35gmvezhfnhr04cibbwzvn0xhmpzkc0k 		 56 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z12wftjjao3pi3hlk231zjlifne4u5psq 		 57 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z124yhb5gmb5gzwkd235wnox4miie5xpt04 		 58 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z13sx5bi2zatwhmcr22ushaygumlwdchz04 		 59 		 2017-08-28 23:34:23 
+ 2017-08-28 23:34:23 	 z133j13j2ufhgfs5y04ccvmhxu2zsr45vc0 		 60 		 2017-08-28 23:34:23 
+
+
+
+ 
+
+ Total time taken is  17.5183877944946 Program starts execution at  2017-08-29 20:33:45 
+Authentication starts  2017-08-29 20:33:45 
+Authentication completed  2017-08-29 20:33:45 
+Starting time for searching posts which have the search string named:  Johnson's Baby :  2017-08-29 20:33:45 
+Finishing time for searching posts which have the given search string:  2017-08-29 20:33:54 
+Starting time for going through each post:  2017-08-29 20:33:54 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-29 20:33:54 	 z13cex3aznb2f3f3q23vxp2zkrzudxvd1 		 1 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z121fncjuvq1zlauf22jyb0i0tbwglfse 		 
+ 2017-08-29 20:33:54 	 z13utrdxnqnthjgfq22muljihxnkflzf2 		 3 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13fdpjzrs2zgtpld23uc5mjhtyrwnzbj04 		 4 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z120cf4xwlu1yrxjc04chfghezbvufvy0jk 		 5 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12zdrdipmnuhnxfz23yjlvzokvytfcfv 		 6 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z125hbhj2vmwd1gtd23uyvxbkye3ybj3m 		 7 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12ufrgxyz32gdatg224illpitvoubztc 		 
+ 2017-08-29 20:33:54 	 z12cuna4skrdxfi1s22lhj4wayquchoab04 		 9 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13jc3mxxy3vidrqp04cglro4napftwpo4c 		 10 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12ycxsx4yu5slikm23xi1xhlybpv1yxe04 		 11 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 12 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12gupzg5se0ijurd04ccbcjbpaujnvzqbg 		 13 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12gt14xumn5zx2w404cjlsgop2ahdjxspc0k 		 14 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12lg1awgwy4h5hdk222y3fxqrvhftegu04 		 15 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z131hnrielqzud1qi04cedwatunzzp45a0s 		 16 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12ljrhxbzubzfk5t04cgjaruzrzupzzvow0k 		 17 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z124traaylicz3uvf23esnhqfzyxvdr5a04 		 18 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13wtz5w3t24y5f0j23jt3pjdonptpgzm04 		 19 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12gs5swey22yrhay04chhqqgvvtcbrh2ps0k 		 20 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z135ezsg0qbztvpga04chhqqgvvtcbrh2ps0k 		 
+ 2017-08-29 20:33:54 	 z13httgorl2sslbij04cdzsw1s34zlm5j1c 		 
+ 2017-08-29 20:33:54 	 z13oip24vsrxcbcxb04cd35qeyele5ozysc0k 		 23 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z134v1tqitqohnbny22bidmrssrrw5kp104 		 24 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13avvrr4naas3fu022mv10agveeithyn04 		 25 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12mx3ma4qvmenrid04ccbwp5yz4xn5a3rc0k 		 26 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13ywh1wuouhgb31b235y3mqgmfve5sfw 		 27 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13hh1vopqn2tt1op04cdzko3xu5fxeatks0k 		 28 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13ojny5bvreh3p4k04celi50kzyff55c34 		 29 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12gtzoq1zavunmlc22lxhyympnjfb0sm 		 30 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z124h3voeqqkyhh03235ztyxtofrgjuvi 		 
+ 2017-08-29 20:33:54 	 z13wfbbjwmqlct4u123ldz3jbrmkwns5w04 		 32 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13oujqy4zmqhposc23wtfrysknautwax04 		 33 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12utnczwkngwjt0a23exjiyrkj4jt52i 		 34 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12rdrexyzzpwf3dk23rit4xkrajjrrva 		 35 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12lv1lbnrbagp4fj23sgfwhno2hin0qs04 		 36 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12pudcyvtm5xtrit04cd3ojuwuqcxlbbaw 		 37 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12ljrn44zmgzfrrv04ccher2oaaxxl5lb4 		 38 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12wjbcpfwr1jnxvq23ag32b3ymjyjfqi04 		 39 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12tfb3rok2iyzuqj04ccxtaez32yzkq2o40k 		 40 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12qglijqwajgtewt04cdzsw1s34zlm5j1c 		 
+ 2017-08-29 20:33:54 	 z12iizhawlf4ubi5t04cghjj5pj2dfoo44w 		 42 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13vtlnzbmbrtftz504cdfbx4mzmd35w52k 		 43 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12mznpqut2oit5y004cc1vgdputhvqi5kc0k 		 
+ 2017-08-29 20:33:54 	 z12lxjnxxyb0wv5in04circa4wiff15aj0k 		 45 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z121itnhvonbsj1im04cdxex0kvitrjilmk0k 		 46 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13ijvkqolq2wjtiz04chzdptxqrjh2ptl40k 		 47 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12fyzggew32dp3b204cd5aosyfxhxmhvww0k 		 48 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z120v34ysyuicrus322eyx4j2ou3uvtk2 		 49 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12gy1qjunmhftdlh23bebmb1tnjsf0ui 		 50 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13ectrryl35xzobp04cgzn5zznuttvjef4 		 51 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z134ivxo1tv5gxxrz04cgbt5axazhpcqreg 		 52 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13mhvf45sfaxr3lg23cz5aqtyvjvti1s 		 53 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12ntvb55kqijlzt422xgdg5rrunzhswo04 		 54 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12vfh444xrze5dgx04cdrbbfrm2xfzqhdw 		 
+ 2017-08-29 20:33:54 	 z12btx4q0vniixzlx22pcrx4arb3ul0z404 		 56 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12uttlgrmbscte0e23ss1m4ekutxzeil04 		 57 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z12ctjnzcn2kyt1mp222hxloezuxdnyg504 		 58 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z130j1sqpxvgft15s04cj30acle3fbrxdu40k 		 59 		 2017-08-29 20:33:54 
+ 2017-08-29 20:33:54 	 z13ve1xxmtbzx5kv523sdfgg0se1jt02t 		 60 		 2017-08-29 20:33:54 
+
+
+
+ 
+
+ Total time taken is  8.86474800109863 Program starts execution at  2017-08-30 10:14:04 
+Authentication starts  2017-08-30 10:14:04 
+Authentication completed  2017-08-30 10:14:04 
+Starting time for searching posts which have the search string named:  Johnson's Baby :  2017-08-30 10:14:05 
+Finishing time for searching posts which have the given search string:  2017-08-30 10:14:13 
+Starting time for going through each post:  2017-08-30 10:14:13 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-30 10:14:13 	 z12bcb2iirejzn33r22eh5xb5yjmjts5a04 		 1 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13cex3aznb2f3f3q23vxp2zkrzudxvd1 		 2 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z121fncjuvq1zlauf22jyb0i0tbwglfse 		 
+ 2017-08-30 10:14:13 	 z13utrdxnqnthjgfq22muljihxnkflzf2 		 4 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13fdpjzrs2zgtpld23uc5mjhtyrwnzbj04 		 5 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z120cf4xwlu1yrxjc04chfghezbvufvy0jk 		 6 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12zdrdipmnuhnxfz23yjlvzokvytfcfv 		 7 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z125hbhj2vmwd1gtd23uyvxbkye3ybj3m 		 8 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12ufrgxyz32gdatg224illpitvoubztc 		 
+ 2017-08-30 10:14:13 	 z12cuna4skrdxfi1s22lhj4wayquchoab04 		 10 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12ycxsx4yu5slikm23xi1xhlybpv1yxe04 		 11 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 12 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12gupzg5se0ijurd04ccbcjbpaujnvzqbg 		 13 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12gt14xumn5zx2w404cjlsgop2ahdjxspc0k 		 14 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12lg1awgwy4h5hdk222y3fxqrvhftegu04 		 15 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z131hnrielqzud1qi04cedwatunzzp45a0s 		 16 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12ljrhxbzubzfk5t04cgjaruzrzupzzvow0k 		 17 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z124traaylicz3uvf23esnhqfzyxvdr5a04 		 18 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13wtz5w3t24y5f0j23jt3pjdonptpgzm04 		 19 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12gs5swey22yrhay04chhqqgvvtcbrh2ps0k 		 20 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z135ezsg0qbztvpga04chhqqgvvtcbrh2ps0k 		 
+ 2017-08-30 10:14:13 	 z13httgorl2sslbij04cdzsw1s34zlm5j1c 		 
+ 2017-08-30 10:14:13 	 z13oip24vsrxcbcxb04cd35qeyele5ozysc0k 		 23 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z134v1tqitqohnbny22bidmrssrrw5kp104 		 24 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13avvrr4naas3fu022mv10agveeithyn04 		 25 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12mx3ma4qvmenrid04ccbwp5yz4xn5a3rc0k 		 26 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13ywh1wuouhgb31b235y3mqgmfve5sfw 		 27 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13hh1vopqn2tt1op04cdzko3xu5fxeatks0k 		 28 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13ojny5bvreh3p4k04celi50kzyff55c34 		 29 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12gtzoq1zavunmlc22lxhyympnjfb0sm 		 30 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z124h3voeqqkyhh03235ztyxtofrgjuvi 		 
+ 2017-08-30 10:14:13 	 z13wfbbjwmqlct4u123ldz3jbrmkwns5w04 		 32 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13oujqy4zmqhposc23wtfrysknautwax04 		 33 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12utnczwkngwjt0a23exjiyrkj4jt52i 		 34 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12rdrexyzzpwf3dk23rit4xkrajjrrva 		 35 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12lv1lbnrbagp4fj23sgfwhno2hin0qs04 		 36 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12pudcyvtm5xtrit04cd3ojuwuqcxlbbaw 		 37 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12ljrn44zmgzfrrv04ccher2oaaxxl5lb4 		 38 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12wjbcpfwr1jnxvq23ag32b3ymjyjfqi04 		 39 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12tfb3rok2iyzuqj04ccxtaez32yzkq2o40k 		 40 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12qglijqwajgtewt04cdzsw1s34zlm5j1c 		 
+ 2017-08-30 10:14:13 	 z12iizhawlf4ubi5t04cghjj5pj2dfoo44w 		 42 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13vtlnzbmbrtftz504cdfbx4mzmd35w52k 		 43 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12mznpqut2oit5y004cc1vgdputhvqi5kc0k 		 
+ 2017-08-30 10:14:13 	 z12lxjnxxyb0wv5in04circa4wiff15aj0k 		 45 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z121itnhvonbsj1im04cdxex0kvitrjilmk0k 		 46 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13ijvkqolq2wjtiz04chzdptxqrjh2ptl40k 		 47 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12fyzggew32dp3b204cd5aosyfxhxmhvww0k 		 48 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z120v34ysyuicrus322eyx4j2ou3uvtk2 		 49 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12gy1qjunmhftdlh23bebmb1tnjsf0ui 		 50 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13ectrryl35xzobp04cgzn5zznuttvjef4 		 51 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z134ivxo1tv5gxxrz04cgbt5axazhpcqreg 		 52 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13mhvf45sfaxr3lg23cz5aqtyvjvti1s 		 53 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12ntvb55kqijlzt422xgdg5rrunzhswo04 		 54 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12vfh444xrze5dgx04cdrbbfrm2xfzqhdw 		 
+ 2017-08-30 10:14:13 	 z12btx4q0vniixzlx22pcrx4arb3ul0z404 		 56 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12uttlgrmbscte0e23ss1m4ekutxzeil04 		 57 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z12ctjnzcn2kyt1mp222hxloezuxdnyg504 		 58 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z130j1sqpxvgft15s04cj30acle3fbrxdu40k 		 59 		 2017-08-30 10:14:13 
+ 2017-08-30 10:14:13 	 z13ve1xxmtbzx5kv523sdfgg0se1jt02t 		 60 		 2017-08-30 10:14:13 
+
+
+
+ 
+
+ Total time taken is  9.01657295227051 Program starts execution at  2017-08-30 20:13:28 
+Authentication starts  2017-08-30 20:13:28 
+Authentication completed  2017-08-30 20:13:28 
+Starting time for searching posts which have the search string named:  Johnson's Baby :  2017-08-30 20:13:28 
+Finishing time for searching posts which have the given search string:  2017-08-30 20:13:36 
+Starting time for going through each post:  2017-08-30 20:13:36 
+Starting time		 Post Id				Number of relevant posts		 Finishing Time 
+ 2017-08-30 20:13:36 	 z12egl3ysvzxv1dbj04ccdvafuvovnw5ucg 		 1 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13qcvmakxy2vlr3q22bidmrssrrw5kp104 		 2 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12gzpkjema1cbmuy22jyb0i0tbwglfse 		 
+ 2017-08-30 20:13:36 	 z13fj5tzqknojnfyg04cefyjmxutt1gwm2w 		 4 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13ew5gj3siucrp4204cc1pa1xmletbjnzs0k 		 5 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13odbua4mituh2gp04cep4i5uiwg1pwixw0k 		 6 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12bcb2iirejzn33r22eh5xb5yjmjts5a04 		 7 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13cex3aznb2f3f3q23vxp2zkrzudxvd1 		 8 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13utrdxnqnthjgfq22muljihxnkflzf2 		 9 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13fdpjzrs2zgtpld23uc5mjhtyrwnzbj04 		 10 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z120cf4xwlu1yrxjc04chfghezbvufvy0jk 		 11 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12zdrdipmnuhnxfz23yjlvzokvytfcfv 		 12 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z125hbhj2vmwd1gtd23uyvxbkye3ybj3m 		 13 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12ufrgxyz32gdatg224illpitvoubztc 		 
+ 2017-08-30 20:13:36 	 z12cuna4skrdxfi1s22lhj4wayquchoab04 		 15 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12ycxsx4yu5slikm23xi1xhlybpv1yxe04 		 16 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13eyv1iyqqfepciv04cj5fzcqrpgnfby3o 		 17 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12gupzg5se0ijurd04ccbcjbpaujnvzqbg 		 18 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12gt14xumn5zx2w404cjlsgop2ahdjxspc0k 		 19 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12lg1awgwy4h5hdk222y3fxqrvhftegu04 		 20 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13eydyrrkvcctskm230i1ji5wahgzlad04 		 
+ 2017-08-30 20:13:36 	 z131hnrielqzud1qi04cedwatunzzp45a0s 		 22 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13dt3njizecgxyql04cdd3ifwfejhhprgw 		 23 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12fipzp2leki3rhh04cjzwjjreyj3xhaxw0k 		 
+ 2017-08-30 20:13:36 	 z12ljrhxbzubzfk5t04cgjaruzrzupzzvow0k 		 25 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12eyjkwxmznjlcv122jyb0i0tbwglfse 		 
+ 2017-08-30 20:13:36 	 z124traaylicz3uvf23esnhqfzyxvdr5a04 		 27 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13wtz5w3t24y5f0j23jt3pjdonptpgzm04 		 28 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12gs5swey22yrhay04chhqqgvvtcbrh2ps0k 		 29 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z135ezsg0qbztvpga04chhqqgvvtcbrh2ps0k 		 
+ 2017-08-30 20:13:36 	 z13oip24vsrxcbcxb04cd35qeyele5ozysc0k 		 31 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z134v1tqitqohnbny22bidmrssrrw5kp104 		 32 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13avvrr4naas3fu022mv10agveeithyn04 		 33 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12mx3ma4qvmenrid04ccbwp5yz4xn5a3rc0k 		 34 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13ywh1wuouhgb31b235y3mqgmfve5sfw 		 35 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13hh1vopqn2tt1op04cdzko3xu5fxeatks0k 		 36 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13ojny5bvreh3p4k04celi50kzyff55c34 		 37 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12gtzoq1zavunmlc22lxhyympnjfb0sm 		 38 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13oujqy4zmqhposc23wtfrysknautwax04 		 39 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12utnczwkngwjt0a23exjiyrkj4jt52i 		 40 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12rdrexyzzpwf3dk23rit4xkrajjrrva 		 41 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12lv1lbnrbagp4fj23sgfwhno2hin0qs04 		 42 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12pudcyvtm5xtrit04cd3ojuwuqcxlbbaw 		 43 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13bcl4j4zqavnzh504cdzsw1s34zlm5j1c 		 
+ 2017-08-30 20:13:36 	 z12ljrn44zmgzfrrv04ccher2oaaxxl5lb4 		 45 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12wjbcpfwr1jnxvq23ag32b3ymjyjfqi04 		 46 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12tfb3rok2iyzuqj04ccxtaez32yzkq2o40k 		 47 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12iizhawlf4ubi5t04cghjj5pj2dfoo44w 		 48 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13vtlnzbmbrtftz504cdfbx4mzmd35w52k 		 49 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12mznpqut2oit5y004cc1vgdputhvqi5kc0k 		 
+ 2017-08-30 20:13:36 	 z12lxjnxxyb0wv5in04circa4wiff15aj0k 		 51 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z121itnhvonbsj1im04cdxex0kvitrjilmk0k 		 52 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13ijvkqolq2wjtiz04chzdptxqrjh2ptl40k 		 53 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12fyzggew32dp3b204cd5aosyfxhxmhvww0k 		 54 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z120v34ysyuicrus322eyx4j2ou3uvtk2 		 55 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12gy1qjunmhftdlh23bebmb1tnjsf0ui 		 56 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13ectrryl35xzobp04cgzn5zznuttvjef4 		 57 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z134ivxo1tv5gxxrz04cgbt5axazhpcqreg 		 58 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z13mhvf45sfaxr3lg23cz5aqtyvjvti1s 		 59 		 2017-08-30 20:13:36 
+ 2017-08-30 20:13:36 	 z12ntvb55kqijlzt422xgdg5rrunzhswo04 		 60 		 2017-08-30 20:13:36 
+
+
+
+ 
+
+ Total time taken is  8.64237689971924

@@ -1,0 +1,47 @@
+{
+   "about": {
+      "message": "Teave HP võrgukontrolli kohta"
+   },
+   "below": {
+      "message": ""
+   },
+   "click_button": {
+      "message": "Klõpsake allolevale nupule"
+   },
+   "connection_error_header": {
+      "message": "Ühenduvuse tõrge"
+   },
+   "description": {
+      "message": "Käivitab HP võrgukontrolli, mis aitab teil lahendada ühendusprobleeme"
+   },
+   "diagnose": {
+      "message": "HP võrgukontroll"
+   },
+   "error_desc": {
+      "message": "Tõrge takistab Google Chrome veeilehte kuvada.  Klõpsake HP Network Checki käivitamiseks vasakul asuvat nuppu, et automaatselt diagnoosida ja tõrge parandada."
+   },
+   "fix": {
+      "message": "PARANDA"
+   },
+   "hpnc_desc_1": {
+      "message": "Tuvastab, diagnoosib ja kõrvaldab automaatselt paljud levinud võrguprobleemid"
+   },
+   "hpnc_desc_2": {
+      "message": "Integreeritud Windowsi võrgudiagnostikaga, nii et see käitab mõlemat samaaegselt"
+   },
+   "hpnc_desc_3": {
+      "message": "Annab selged juhised probleemide lahendamiseks, mida ei saa kõrvaldada automaatselt"
+   },
+   "hpnc_desc_4": {
+      "message": "Kuvab tõrkeotsingu lihtsustamiseks olulist süsteemi- ja võrguteavet"
+   },
+   "message_title": {
+      "message": "Google Chrome ei saa veebilehte kuvada"
+   },
+   "name": {
+      "message": "HP Network Check Launcher"
+   },
+   "title": {
+      "message": "HP Ühenduvuse tõrge"
+   }
+}
